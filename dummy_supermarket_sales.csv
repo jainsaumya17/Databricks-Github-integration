@@ -1,0 +1,501 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Total,Date,Time,Payment,COGS,Gross margin percentage,Gross income,Rating
+797bdeed-3cbc-4db2-b9f8-30211139d0e7,B,Yangon,Member,Female,Sports and travel,16.04,10,8.02,168.42,04/07/2024,11:13:58,Ewallet,160.4,4.76,8.02,1.6
+b9f8a4d3-2555-44e0-9cfa-79c945d2ebbe,C,Naypyitaw,Normal,Male,Food and beverages,35.77,8,14.31,300.47,04/19/2024,07:57:23,Credit card,286.16,4.76,14.31,1.2
+6e1a8f51-f6f4-4b4c-872a-42f8c6ed3ce6,C,Naypyitaw,Normal,Female,Food and beverages,81.12,8,32.45,681.41,08/13/2024,09:58:17,Credit card,648.96,4.76,32.45,2.1
+5983f6ac-6914-4f0d-a74b-b2bb59f80566,A,Naypyitaw,Normal,Female,Health and beauty,10.49,2,1.05,22.03,11/18/2024,10:52:26,Credit card,20.98,4.77,1.05,7.5
+9013e5aa-a226-4faa-8ccb-a52fb585dddd,A,Mandalay,Normal,Male,Home and lifestyle,96.0,1,4.8,100.8,09/13/2024,19:38:38,Credit card,96.0,4.76,4.8,5.9
+a002e1bb-fbde-41eb-9a79-a49e989067e7,B,Naypyitaw,Member,Female,Fashion accessories,32.92,1,1.65,34.57,12/08/2024,18:55:10,Cash,32.92,4.77,1.65,9.1
+7af9aabe-7725-44fd-a49b-26808d729ede,B,Naypyitaw,Normal,Female,Electronic accessories,28.51,4,5.7,119.74,03/12/2024,14:42:11,Ewallet,114.04,4.76,5.7,4.9
+c5577f7e-3f75-47a9-b6ec-39a633e1ecfd,B,Yangon,Member,Male,Electronic accessories,36.09,8,14.44,303.16,11/22/2024,14:07:55,Cash,288.72,4.76,14.44,4.4
+92d63582-326c-424b-b64b-6f206864c1de,A,Yangon,Member,Female,Fashion accessories,54.21,4,10.84,227.68,03/15/2024,15:02:45,Cash,216.84,4.76,10.84,4.4
+bed308df-c313-4494-8ac5-9bcbe4d8f1ab,A,Mandalay,Normal,Female,Home and lifestyle,35.46,6,10.64,223.4,05/09/2024,13:43:51,Cash,212.76,4.76,10.64,6.1
+aee134e2-c4b7-43cc-8b5b-5a4c17f389b5,B,Yangon,Member,Female,Electronic accessories,22.26,2,2.23,46.75,02/18/2024,11:17:26,Cash,44.52,4.77,2.23,4.6
+06e6bc2c-0e62-4c9f-ab7a-89d54b146117,B,Mandalay,Normal,Male,Fashion accessories,15.12,2,1.51,31.75,05/19/2024,23:06:23,Ewallet,30.24,4.76,1.51,7.4
+f584264b-603b-4d23-b7c1-4f30561de862,A,Mandalay,Member,Male,Electronic accessories,17.23,7,6.03,126.64,10/14/2024,20:50:07,Cash,120.61,4.76,6.03,3.2
+371acfca-8173-460e-93d0-10fa1a822ca7,B,Yangon,Member,Female,Electronic accessories,24.16,3,3.62,76.1,10/13/2024,10:20:14,Cash,72.48,4.76,3.62,3.8
+19dbbe53-6825-4bee-bcb8-6b364d511a07,A,Naypyitaw,Member,Male,Sports and travel,11.99,9,5.4,113.31,02/27/2024,14:14:12,Ewallet,107.91,4.77,5.4,7.2
+5958f024-38ca-4f14-b91a-52502df7cd1f,B,Naypyitaw,Member,Male,Fashion accessories,19.31,8,7.72,162.2,06/26/2024,08:09:35,Credit card,154.48,4.76,7.72,7.7
+ab43605e-2db7-4aca-b1d3-200c09b54d47,C,Naypyitaw,Normal,Female,Sports and travel,42.02,5,10.51,220.61,11/19/2024,09:57:20,Cash,210.1,4.76,10.51,5.4
+008325f6-b17e-4fe9-9c0a-9ae7f2ec1ea1,C,Mandalay,Normal,Male,Food and beverages,54.14,5,13.54,284.24,01/09/2025,09:59:58,Cash,270.7,4.76,13.54,8.0
+ecea174c-546b-4f3e-be09-3274e249ccc2,B,Naypyitaw,Normal,Female,Food and beverages,83.62,7,29.27,614.61,03/30/2024,06:27:45,Credit card,585.34,4.76,29.27,6.9
+33726492-c8ed-4e07-bf7a-52ac65ee89cf,A,Naypyitaw,Member,Male,Food and beverages,12.4,5,3.1,65.1,09/04/2024,14:26:21,Credit card,62.0,4.76,3.1,6.6
+00cbb623-deb3-478c-abb1-ac60180d30ab,B,Naypyitaw,Normal,Female,Electronic accessories,51.42,2,5.14,107.98,01/11/2025,02:33:28,Ewallet,102.84,4.76,5.14,6.4
+53e22340-984b-4b26-9bc7-fdb80b1a4f87,C,Yangon,Member,Male,Food and beverages,28.36,1,1.42,29.78,02/29/2024,13:46:10,Ewallet,28.36,4.77,1.42,6.0
+f82a42fd-7ce3-44dd-b64c-bfd8379573de,C,Mandalay,Normal,Male,Fashion accessories,54.48,7,19.07,400.43,12/20/2024,12:59:44,Cash,381.36,4.76,19.07,3.4
+6b409635-487e-441b-b1fb-e82f741e4026,C,Naypyitaw,Member,Male,Home and lifestyle,75.94,8,30.38,637.9,03/23/2024,23:43:53,Credit card,607.52,4.76,30.38,7.3
+29e19d00-25a7-4ff6-bd61-61ba885003cd,C,Yangon,Normal,Male,Fashion accessories,89.8,10,44.9,942.9,03/27/2024,11:12:59,Ewallet,898.0,4.76,44.9,4.1
+721cf122-c8db-428d-be0a-fa43c8c3da3e,C,Mandalay,Normal,Female,Food and beverages,44.18,5,11.05,231.95,08/28/2024,18:14:53,Credit card,220.9,4.76,11.05,6.2
+3c847daf-4258-4072-8f34-3a57941875e9,B,Yangon,Member,Male,Electronic accessories,64.15,10,32.08,673.58,10/18/2024,05:19:09,Cash,641.5,4.76,32.08,3.3
+2b2fc8fe-025b-4ab6-bc56-d124c3e4ef22,B,Mandalay,Member,Female,Fashion accessories,41.97,7,14.69,308.48,04/12/2024,06:58:24,Cash,293.79,4.76,14.69,4.5
+2e863a19-ce75-4440-afe8-393cfe7093bf,B,Naypyitaw,Normal,Male,Sports and travel,52.2,1,2.61,54.81,12/24/2024,18:14:02,Cash,52.2,4.76,2.61,2.3
+a7ddc635-ddbd-4008-8df8-21fc477e196b,B,Naypyitaw,Normal,Male,Sports and travel,67.62,7,23.67,497.01,12/07/2024,20:11:02,Cash,473.34,4.76,23.67,9.5
+14840da5-93f6-41d1-9e3f-c8e74f47676d,B,Naypyitaw,Member,Male,Electronic accessories,38.93,4,7.79,163.51,02/21/2024,10:29:17,Cash,155.72,4.76,7.79,5.7
+88d837d2-a8a6-4fd8-8a38-5fd05ecebb96,A,Naypyitaw,Member,Female,Home and lifestyle,55.38,2,5.54,116.3,04/30/2024,04:13:23,Credit card,110.76,4.76,5.54,4.2
+9d64174a-90b0-43f5-a3c3-3f0a22b2142d,B,Yangon,Normal,Male,Sports and travel,67.68,6,20.3,426.38,10/08/2024,14:15:25,Credit card,406.08,4.76,20.3,2.7
+5db7ba21-fa88-48c9-b03c-ed7326ff3d97,B,Naypyitaw,Member,Female,Sports and travel,94.82,1,4.74,99.56,01/15/2025,07:19:50,Cash,94.82,4.76,4.74,6.6
+df0b7610-aebb-44ed-be6b-78908f489951,B,Yangon,Member,Female,Home and lifestyle,63.78,6,19.13,401.81,09/07/2024,04:33:48,Cash,382.68,4.76,19.13,3.7
+1ed975a6-238f-4925-ac32-2ca2b5578e21,A,Mandalay,Normal,Male,Food and beverages,31.84,4,6.37,133.73,06/13/2024,19:52:04,Cash,127.36,4.76,6.37,8.9
+3055e334-d76b-483c-a340-fa63674adb76,B,Naypyitaw,Normal,Female,Sports and travel,25.37,8,10.15,213.11,07/01/2024,19:17:38,Credit card,202.96,4.76,10.15,4.1
+5d920199-8b6f-489a-a610-379aa37a6f27,B,Mandalay,Member,Male,Electronic accessories,16.29,7,5.7,119.73,03/11/2024,05:00:08,Cash,114.03,4.76,5.7,2.8
+635bd6ae-0a15-40b0-a933-980ff28dc4e6,A,Naypyitaw,Member,Male,Food and beverages,65.71,9,29.57,620.96,11/23/2024,03:49:35,Ewallet,591.39,4.76,29.57,9.5
+8a387f22-3b5f-4820-9839-34779555020f,C,Mandalay,Member,Female,Fashion accessories,95.14,5,23.79,499.49,11/06/2024,11:21:38,Credit card,475.7,4.76,23.79,2.1
+4e19d251-ffb7-48d9-ad64-f036fb1a5009,C,Naypyitaw,Member,Male,Home and lifestyle,23.69,8,9.48,199.0,12/15/2024,19:25:36,Cash,189.52,4.76,9.48,1.9
+809d066d-4730-41a2-bbf8-8709af2b0eaf,A,Yangon,Normal,Male,Health and beauty,73.3,2,7.33,153.93,12/02/2024,05:21:56,Ewallet,146.6,4.76,7.33,9.4
+f9f5d113-69d5-4857-9eaf-7edd48d71a96,C,Yangon,Normal,Male,Electronic accessories,30.46,7,10.66,223.88,12/21/2024,15:14:14,Ewallet,213.22,4.76,10.66,9.0
+b022b889-932a-438e-8f28-683177470168,B,Mandalay,Member,Female,Fashion accessories,42.78,8,17.11,359.35,06/12/2024,11:57:56,Credit card,342.24,4.76,17.11,7.0
+1db2d5cd-c195-4cab-9391-43f8b321772f,A,Mandalay,Normal,Female,Food and beverages,77.01,7,26.95,566.02,02/05/2024,10:10:58,Credit card,539.07,4.76,26.95,1.7
+2d873954-fe70-411b-bfc2-0f8d167034a7,B,Naypyitaw,Member,Male,Electronic accessories,29.81,5,7.45,156.5,09/03/2024,20:55:57,Ewallet,149.05,4.76,7.45,6.9
+45116d59-4e33-4149-82f7-ce30e01c8577,B,Naypyitaw,Normal,Male,Fashion accessories,35.85,7,12.55,263.5,09/08/2024,18:58:10,Ewallet,250.95,4.76,12.55,7.3
+fefa877d-f8dc-4706-b272-a0612f86ba03,B,Yangon,Normal,Female,Electronic accessories,80.75,4,16.15,339.15,01/15/2025,11:13:44,Credit card,323.0,4.76,16.15,4.3
+860a09a8-23c4-413e-b6e8-b0b6c2b580c6,C,Mandalay,Member,Male,Health and beauty,57.18,8,22.87,480.31,05/06/2024,02:40:48,Cash,457.44,4.76,22.87,8.4
+1ba41c26-1ad6-416c-9295-89334d823340,B,Naypyitaw,Normal,Male,Food and beverages,39.44,7,13.8,289.88,06/04/2024,00:10:24,Ewallet,276.08,4.76,13.8,6.5
+acc634b1-ad91-4b84-88be-d5c72f6affc4,B,Naypyitaw,Member,Male,Food and beverages,32.67,4,6.53,137.21,10/05/2024,02:25:07,Credit card,130.68,4.76,6.53,4.0
+82a5367b-463a-4723-a4de-fe8b33d954fd,A,Naypyitaw,Normal,Male,Food and beverages,82.88,10,41.44,870.24,03/31/2024,06:38:53,Cash,828.8,4.76,41.44,8.2
+09b002cd-315b-4827-a0a5-f2be40823ced,A,Naypyitaw,Member,Female,Fashion accessories,18.78,2,1.88,39.44,06/18/2024,18:00:52,Cash,37.56,4.77,1.88,8.9
+19aae631-f92a-4ee6-869d-a7dc63fa2401,C,Mandalay,Member,Female,Home and lifestyle,59.05,5,14.76,310.01,04/09/2024,09:55:44,Ewallet,295.25,4.76,14.76,5.6
+26a6ed9e-e605-46ab-b5c3-fe050532c50b,B,Naypyitaw,Member,Female,Fashion accessories,53.15,3,7.97,167.42,11/19/2024,22:23:43,Cash,159.45,4.76,7.97,4.9
+a296c979-2562-43e7-9323-3631aca08671,B,Mandalay,Member,Female,Fashion accessories,72.0,9,32.4,680.4,06/07/2024,09:40:15,Cash,648.0,4.76,32.4,6.1
+2b8a5f6e-5c8a-4c10-9233-c8267fc55ccd,A,Naypyitaw,Member,Female,Electronic accessories,89.0,7,31.15,654.15,01/09/2025,12:03:07,Ewallet,623.0,4.76,31.15,1.3
+b150e072-f769-4163-abb3-5c10de07fd53,C,Yangon,Normal,Female,Home and lifestyle,12.18,6,3.65,76.73,07/01/2024,17:43:33,Credit card,73.08,4.76,3.65,2.7
+e7eceec7-98ab-44d0-b3c4-ae491e634ca8,A,Mandalay,Member,Male,Fashion accessories,48.18,6,14.45,303.53,11/18/2024,21:41:09,Cash,289.08,4.76,14.45,8.6
+862e92cc-861f-4d4f-b489-385ea721ad77,A,Mandalay,Normal,Female,Electronic accessories,42.85,8,17.14,359.94,06/22/2024,11:30:08,Cash,342.8,4.76,17.14,5.8
+89d91c93-32a0-4ed6-94fc-2436234d8739,B,Mandalay,Normal,Male,Food and beverages,93.8,2,9.38,196.98,05/13/2024,11:04:00,Cash,187.6,4.76,9.38,9.9
+936f5e1e-131f-4d2f-bb1f-998b6ae39d8a,C,Yangon,Normal,Female,Electronic accessories,20.73,10,10.37,217.67,01/29/2025,15:36:28,Ewallet,207.3,4.76,10.37,7.6
+765136e4-54c9-4294-80e6-eae68bc2bc9d,C,Naypyitaw,Normal,Male,Food and beverages,81.19,2,8.12,170.5,06/11/2024,14:42:01,Ewallet,162.38,4.76,8.12,5.3
+d4fd5e8f-e0bf-47a3-b8c2-db85e3f96320,A,Mandalay,Normal,Female,Fashion accessories,83.22,8,33.29,699.05,05/15/2024,13:13:36,Cash,665.76,4.76,33.29,7.0
+4e17814c-0ce2-4476-b5dc-fe55f48a242c,A,Naypyitaw,Normal,Male,Sports and travel,16.3,9,7.34,154.04,05/15/2024,09:51:18,Credit card,146.7,4.76,7.34,9.3
+237188c8-855a-4011-a30b-8c05bb3c7382,A,Naypyitaw,Normal,Female,Health and beauty,24.15,7,8.45,177.5,10/05/2024,00:16:40,Ewallet,169.05,4.76,8.45,1.4
+e7bcc3e9-3d0f-40af-8f4f-772df9c347a0,B,Yangon,Normal,Female,Sports and travel,15.03,4,3.01,63.13,03/17/2024,00:36:25,Cash,60.12,4.77,3.01,8.9
+7fd53a84-2e39-4ddc-bebe-2fcb69de10af,B,Naypyitaw,Member,Female,Health and beauty,88.74,4,17.75,372.71,02/13/2024,18:36:52,Cash,354.96,4.76,17.75,9.1
+7e969454-c253-423f-b24a-962ff6df1987,C,Mandalay,Normal,Female,Electronic accessories,54.51,8,21.8,457.88,01/08/2025,23:42:53,Ewallet,436.08,4.76,21.8,2.8
+53f06a47-44e6-415c-adcc-80fa407183cc,A,Mandalay,Member,Male,Home and lifestyle,24.79,2,2.48,52.06,04/07/2024,20:59:38,Cash,49.58,4.76,2.48,3.9
+f02f7ca3-0975-4ac3-a9ed-026740d2f0b5,C,Yangon,Member,Male,Electronic accessories,87.15,6,26.15,549.05,06/20/2024,04:19:07,Ewallet,522.9,4.76,26.15,4.2
+667bd4b9-e6b8-4260-ab1a-571a0e86fbcc,B,Mandalay,Normal,Female,Electronic accessories,93.71,4,18.74,393.58,02/28/2024,03:18:09,Credit card,374.84,4.76,18.74,2.6
+11d7e0b2-b4f0-475d-8c2c-b6a34f3018cd,C,Mandalay,Normal,Male,Fashion accessories,30.4,4,6.08,127.68,12/22/2024,15:15:35,Cash,121.6,4.76,6.08,1.1
+85726b4f-bd92-46b0-bdc9-646c4e26ab84,C,Yangon,Normal,Male,Sports and travel,45.35,8,18.14,380.94,05/24/2024,01:22:25,Ewallet,362.8,4.76,18.14,1.8
+71f3a6b8-656d-45d1-b759-03c759ecb409,A,Naypyitaw,Normal,Female,Sports and travel,20.35,2,2.04,42.74,10/30/2024,02:50:40,Ewallet,40.7,4.77,2.04,4.9
+bb6a281a-6edc-4838-9770-e42ff0005d2e,B,Mandalay,Normal,Female,Sports and travel,24.57,8,9.83,206.39,07/14/2024,20:55:38,Ewallet,196.56,4.76,9.83,9.4
+eff3c044-45e3-4778-a56b-65de2a42c258,A,Mandalay,Member,Female,Sports and travel,82.61,5,20.65,433.7,06/01/2024,20:12:01,Cash,413.05,4.76,20.65,2.2
+5d84e4dc-3b80-4a9e-b946-7d6b28ca77c5,B,Mandalay,Normal,Female,Home and lifestyle,31.48,5,7.87,165.27,08/29/2024,22:54:17,Credit card,157.4,4.76,7.87,9.5
+fb58af0b-c618-4fb4-9113-6729dc34ca9d,C,Mandalay,Normal,Male,Home and lifestyle,39.26,5,9.81,206.11,08/04/2024,11:36:52,Ewallet,196.3,4.76,9.81,1.5
+e1889e7d-7f6f-454f-9b33-21925651a9eb,C,Naypyitaw,Normal,Male,Sports and travel,29.34,4,5.87,123.23,09/07/2024,16:54:04,Ewallet,117.36,4.76,5.87,5.8
+df5f2700-d593-4723-962d-0e23dda13a8c,C,Naypyitaw,Normal,Male,Health and beauty,92.88,3,13.93,292.57,05/27/2024,20:10:27,Ewallet,278.64,4.76,13.93,3.4
+ea32711e-605e-4613-acaa-17e6090e4788,B,Naypyitaw,Normal,Female,Health and beauty,85.45,4,17.09,358.89,08/28/2024,20:49:13,Credit card,341.8,4.76,17.09,3.7
+ca2c3311-1caf-42cf-9a70-e90ca8b1a0a5,C,Mandalay,Normal,Male,Electronic accessories,79.19,6,23.76,498.9,06/20/2024,11:32:28,Ewallet,475.14,4.76,23.76,5.7
+a6e0e705-7f26-4d97-80f6-5c37d97ca901,A,Yangon,Member,Male,Electronic accessories,39.99,6,12.0,251.94,06/20/2024,01:25:02,Ewallet,239.94,4.76,12.0,1.7
+68a4e2c0-c2bb-4b4f-bf72-e6ff66b16477,B,Yangon,Member,Male,Food and beverages,25.39,6,7.62,159.96,02/11/2024,06:07:10,Credit card,152.34,4.76,7.62,1.4
+102af900-3fa1-471d-9039-d23f46d42598,C,Yangon,Normal,Female,Food and beverages,67.33,10,33.66,706.96,07/31/2024,04:35:02,Cash,673.3,4.76,33.66,1.3
+7b7b4330-4d2e-4153-8e84-9d3993b4bdfd,C,Yangon,Normal,Male,Home and lifestyle,39.71,7,13.9,291.87,05/03/2024,16:23:12,Credit card,277.97,4.76,13.9,1.9
+171be579-8719-463d-824b-218949a878a6,B,Naypyitaw,Member,Male,Electronic accessories,85.9,2,8.59,180.39,07/16/2024,17:52:39,Ewallet,171.8,4.76,8.59,6.5
+00236b74-9610-41d9-a040-9a84f7aa90e1,C,Mandalay,Member,Female,Electronic accessories,29.03,10,14.52,304.82,12/03/2024,16:16:14,Ewallet,290.3,4.76,14.52,4.0
+ec3af117-ceea-47eb-8af2-e7c9fe4b2873,C,Naypyitaw,Member,Male,Home and lifestyle,86.01,3,12.9,270.93,05/13/2024,07:18:48,Cash,258.03,4.76,12.9,4.2
+83a07a54-b1b7-4982-b51e-a21055d05ad0,B,Naypyitaw,Normal,Female,Food and beverages,48.7,10,24.35,511.35,06/16/2024,19:36:12,Credit card,487.0,4.76,24.35,5.3
+1cc1b342-b991-4f07-b7bc-cde390ab66e5,B,Yangon,Member,Female,Health and beauty,75.82,9,34.12,716.5,08/23/2024,22:44:55,Cash,682.38,4.76,34.12,4.1
+7dd5359a-05cc-4d97-9a55-af1b4d64fee3,A,Mandalay,Normal,Female,Home and lifestyle,47.12,8,18.85,395.81,10/31/2024,23:55:57,Credit card,376.96,4.76,18.85,7.3
+7599d36c-683a-4d1c-b72d-97bdbaaf3d8f,A,Mandalay,Member,Female,Food and beverages,23.34,2,2.33,49.01,12/01/2024,07:20:49,Cash,46.68,4.75,2.33,7.6
+35e0a578-89fe-4248-8f43-f06d2a893888,A,Naypyitaw,Normal,Male,Electronic accessories,33.4,7,11.69,245.49,10/27/2024,08:44:20,Cash,233.8,4.76,11.69,2.4
+cad6da27-d9e4-471e-acdb-4b0ea42ace5c,C,Naypyitaw,Member,Female,Home and lifestyle,46.0,5,11.5,241.5,12/17/2024,18:34:45,Credit card,230.0,4.76,11.5,4.9
+a4c326e9-8349-47b3-9f2a-347b46ff4ad7,A,Yangon,Normal,Male,Food and beverages,61.56,6,18.47,387.83,06/14/2024,06:13:00,Credit card,369.36,4.76,18.47,2.0
+b56380d5-bf39-4ffe-8f87-68ffbb47c391,A,Yangon,Member,Male,Fashion accessories,58.34,7,20.42,428.8,07/01/2024,21:35:15,Credit card,408.38,4.76,20.42,1.3
+b586acd8-3aff-4743-ad8b-45476b20d4de,A,Naypyitaw,Member,Male,Food and beverages,19.87,9,8.94,187.77,04/20/2024,23:44:43,Cash,178.83,4.76,8.94,7.2
+6a66d6ab-8ffc-42c3-bf89-922feeff861c,A,Naypyitaw,Member,Male,Health and beauty,64.72,7,22.65,475.69,10/03/2024,06:25:56,Credit card,453.04,4.76,22.65,8.7
+ee5d8703-344c-4955-953c-689ec7e4be82,B,Mandalay,Member,Male,Home and lifestyle,70.67,1,3.53,74.2,06/25/2024,16:45:04,Ewallet,70.67,4.76,3.53,3.2
+bfea7dbe-2160-4618-8f68-8af223b5a047,B,Naypyitaw,Normal,Male,Electronic accessories,62.94,8,25.18,528.7,10/12/2024,17:51:01,Ewallet,503.52,4.76,25.18,2.5
+7cae34dd-8f3a-4fdb-913e-122aa68842b8,C,Yangon,Member,Female,Health and beauty,48.55,7,16.99,356.84,07/20/2024,09:08:07,Cash,339.85,4.76,16.99,8.6
+310b381e-6a08-4ba2-b114-6f617c9b8310,C,Naypyitaw,Normal,Male,Food and beverages,30.45,2,3.04,63.94,06/19/2024,11:28:53,Credit card,60.9,4.75,3.04,4.0
+362cce19-0366-4354-b6f5-054b52b2b766,C,Yangon,Normal,Male,Sports and travel,58.54,2,5.85,122.93,09/10/2024,21:39:42,Cash,117.08,4.76,5.85,3.2
+44ee1e16-f073-4311-9393-6202f70a3e8a,C,Mandalay,Member,Female,Food and beverages,38.13,2,3.81,80.07,10/19/2024,18:33:38,Cash,76.26,4.76,3.81,4.0
+2eb290a9-0b1d-4d71-b387-aa5f85a0c96d,C,Mandalay,Member,Female,Electronic accessories,83.41,8,33.36,700.64,09/17/2024,18:07:35,Ewallet,667.28,4.76,33.36,4.2
+14c009ff-7f9f-40d9-8e29-8d230f562389,B,Mandalay,Normal,Female,Food and beverages,18.08,8,7.23,151.87,10/27/2024,17:01:31,Ewallet,144.64,4.76,7.23,6.8
+5091898e-dd98-4391-ac34-a828c979ce99,C,Mandalay,Member,Male,Electronic accessories,90.16,9,40.57,852.01,11/12/2024,23:03:16,Ewallet,811.44,4.76,40.57,9.2
+12e90573-951c-453c-b168-954ef599860a,A,Mandalay,Member,Female,Electronic accessories,44.81,7,15.68,329.35,03/18/2024,22:42:13,Cash,313.67,4.76,15.68,8.2
+4aac3475-115c-45b5-aa7a-6098d1f91442,A,Mandalay,Member,Male,Health and beauty,57.02,7,19.96,419.1,01/17/2025,22:01:37,Ewallet,399.14,4.76,19.96,4.0
+fce8d83c-9fc8-4c02-ba53-77e9eef5a556,C,Mandalay,Normal,Male,Fashion accessories,64.73,8,25.89,543.73,10/13/2024,06:46:54,Credit card,517.84,4.76,25.89,4.7
+6b694df8-3802-4286-8c18-4695febcd209,A,Naypyitaw,Member,Male,Fashion accessories,39.61,7,13.86,291.13,09/30/2024,19:31:08,Credit card,277.27,4.76,13.86,8.7
+f4325c53-c7ac-451f-9d0c-80aa1beb5aea,C,Yangon,Normal,Female,Fashion accessories,26.79,9,12.06,253.17,07/05/2024,21:21:05,Credit card,241.11,4.76,12.06,6.8
+c0c140a4-a585-4065-893d-2b78eb84b67c,C,Mandalay,Member,Male,Home and lifestyle,68.93,2,6.89,144.75,04/27/2024,08:09:05,Credit card,137.86,4.76,6.89,1.7
+22bd80af-9e32-4063-a55a-c71177c87bb7,B,Naypyitaw,Member,Male,Sports and travel,25.51,9,11.48,241.07,10/26/2024,05:49:44,Cash,229.59,4.76,11.48,3.4
+68b4c88a-b676-4292-9d2d-a0c1b5bd09a1,B,Naypyitaw,Normal,Female,Home and lifestyle,19.49,4,3.9,81.86,09/20/2024,00:24:56,Ewallet,77.96,4.76,3.9,8.1
+5aa74f5e-d9aa-48b8-95d6-65a446313d6b,B,Yangon,Member,Male,Electronic accessories,64.35,2,6.43,135.13,05/03/2024,12:10:38,Cash,128.7,4.76,6.43,5.6
+8c87a853-8773-4149-a6ed-5e448963b1d8,A,Naypyitaw,Normal,Female,Home and lifestyle,98.26,5,24.57,515.87,04/26/2024,15:51:33,Ewallet,491.3,4.76,24.57,5.3
+660147c4-1e75-4ddc-a950-dce8fa832ee9,A,Mandalay,Normal,Male,Sports and travel,51.75,10,25.88,543.38,10/28/2024,12:03:24,Ewallet,517.5,4.76,25.88,4.3
+5d715164-fea9-41ec-8f86-4fbd3c1ff364,A,Yangon,Member,Male,Fashion accessories,81.6,3,12.24,257.04,08/01/2024,15:20:43,Ewallet,244.8,4.76,12.24,3.5
+10c47e71-af34-41a0-a11a-52feb6e558a3,A,Yangon,Member,Male,Health and beauty,23.36,5,5.84,122.64,01/03/2025,22:24:15,Cash,116.8,4.76,5.84,5.2
+15e1cb03-2d7c-44ee-8018-160cf591fe98,B,Mandalay,Member,Male,Health and beauty,96.19,1,4.81,101.0,07/25/2024,03:54:47,Ewallet,96.19,4.76,4.81,8.8
+10611fe4-e122-4c17-86e7-ed0e17651c37,C,Mandalay,Normal,Male,Electronic accessories,78.14,6,23.44,492.28,03/18/2024,13:42:39,Cash,468.84,4.76,23.44,6.2
+7d64814a-f699-4fcc-9376-2e63f6943da9,B,Yangon,Member,Male,Fashion accessories,14.99,6,4.5,94.44,04/30/2024,07:40:02,Credit card,89.94,4.76,4.5,2.5
+d78f3c46-a53d-4261-9610-c82b4254899a,A,Mandalay,Member,Male,Electronic accessories,99.96,5,24.99,524.79,12/08/2024,16:21:19,Ewallet,499.8,4.76,24.99,2.5
+a0a67078-b270-4e54-9d42-0b3d65b48776,A,Yangon,Member,Female,Health and beauty,38.79,6,11.64,244.38,02/08/2024,13:18:33,Cash,232.74,4.76,11.64,9.9
+b6dbde87-0d6a-470f-87f8-deccb6e640ba,C,Mandalay,Member,Male,Health and beauty,82.45,4,16.49,346.29,07/10/2024,09:56:30,Ewallet,329.8,4.76,16.49,8.8
+4117142a-9e92-4cb7-86ec-226bfd52d68b,C,Mandalay,Normal,Female,Home and lifestyle,81.45,3,12.22,256.57,05/18/2024,11:29:52,Credit card,244.35,4.76,12.22,2.4
+9fda1855-0ee5-446b-8aef-95a181bedb9b,C,Yangon,Member,Male,Health and beauty,62.16,5,15.54,326.34,01/19/2025,02:07:58,Credit card,310.8,4.76,15.54,6.1
+9e8bc557-c3f8-4bba-a96a-abea87bbfb0d,A,Yangon,Normal,Male,Electronic accessories,35.95,4,7.19,150.99,09/05/2024,11:20:25,Ewallet,143.8,4.76,7.19,9.0
+dc49a0ba-b32e-4b1e-842e-cbe16c2567c7,C,Mandalay,Normal,Male,Food and beverages,67.37,2,6.74,141.48,09/14/2024,15:23:47,Credit card,134.74,4.76,6.74,1.6
+74d1d2a8-5eb7-4de1-9add-27858dfaa34e,A,Mandalay,Member,Female,Electronic accessories,40.0,10,20.0,420.0,12/25/2024,10:07:38,Credit card,400.0,4.76,20.0,6.1
+f1c088a6-07ad-4774-85ce-31e2dc554b36,C,Mandalay,Member,Male,Health and beauty,11.22,7,3.93,82.47,09/02/2024,18:08:24,Ewallet,78.54,4.77,3.93,2.7
+a62127ff-8438-4904-b83d-517fe2c79a7f,A,Mandalay,Member,Female,Sports and travel,89.73,5,22.43,471.08,01/21/2025,22:04:39,Ewallet,448.65,4.76,22.43,8.3
+f69b0aec-7eba-4cff-9883-d29f60e87fd7,C,Naypyitaw,Member,Female,Home and lifestyle,29.61,3,4.44,93.27,05/05/2024,23:34:21,Ewallet,88.83,4.76,4.44,5.7
+259a400e-c2dc-498a-aac5-6093c762d839,A,Yangon,Member,Male,Fashion accessories,30.39,6,9.12,191.46,12/24/2024,23:03:04,Ewallet,182.34,4.76,9.12,6.0
+bab02bcf-9bd7-46f6-9ffb-c4d67fbe618d,C,Yangon,Member,Male,Health and beauty,20.21,1,1.01,21.22,04/20/2024,13:26:05,Credit card,20.21,4.76,1.01,2.5
+e221fc6f-f4cc-41bd-8b4d-64724a4c9ecc,B,Mandalay,Member,Female,Food and beverages,25.7,5,6.43,134.93,05/29/2024,11:06:54,Ewallet,128.5,4.77,6.43,3.9
+878758a1-f1e5-4509-97e8-cf1965f707a8,C,Naypyitaw,Normal,Male,Electronic accessories,22.17,4,4.43,93.11,08/03/2024,19:23:30,Credit card,88.68,4.76,4.43,4.3
+4314ff79-5f97-4342-a0bc-b1048021aab3,A,Naypyitaw,Normal,Male,Home and lifestyle,43.77,9,19.7,413.63,05/29/2024,05:49:24,Ewallet,393.93,4.76,19.7,3.0
+10efc6c3-7fd2-474e-9f2e-9c4c21d815d6,C,Mandalay,Normal,Male,Fashion accessories,70.83,4,14.17,297.49,03/13/2024,18:20:07,Credit card,283.32,4.76,14.17,7.1
+af24e817-e6da-428e-bbd9-75d9d74268eb,A,Yangon,Member,Female,Sports and travel,20.25,5,5.06,106.31,06/23/2024,20:14:05,Cash,101.25,4.76,5.06,8.5
+37502caf-d427-4f63-b80d-954b533e636e,B,Mandalay,Normal,Male,Electronic accessories,40.29,1,2.01,42.3,02/08/2024,14:31:51,Cash,40.29,4.75,2.01,6.4
+89ba4464-8de4-4bb3-8784-66d86b66513c,A,Yangon,Member,Male,Health and beauty,89.63,7,31.37,658.78,11/29/2024,18:23:56,Cash,627.41,4.76,31.37,4.1
+727b5d52-db29-41f6-8a63-aae58c31a96b,C,Naypyitaw,Normal,Male,Home and lifestyle,57.74,1,2.89,60.63,09/22/2024,06:43:24,Cash,57.74,4.77,2.89,9.1
+d7951f06-39a9-442c-8704-b4fcd26d2b1b,B,Naypyitaw,Normal,Female,Fashion accessories,41.36,2,4.14,86.86,05/14/2024,04:16:03,Ewallet,82.72,4.77,4.14,7.1
+9d65b1d4-e2f2-4809-a605-0d2ff8a287b0,B,Mandalay,Normal,Female,Electronic accessories,56.6,8,22.64,475.44,05/30/2024,06:24:03,Cash,452.8,4.76,22.64,5.9
+d9fbfe39-2c80-41df-9745-37db41a0350d,B,Naypyitaw,Normal,Female,Electronic accessories,62.39,6,18.72,393.06,08/20/2024,13:47:22,Ewallet,374.34,4.76,18.72,7.5
+7a8c6b5a-ac96-4ab0-bfd5-b0f7307aee80,B,Mandalay,Normal,Male,Food and beverages,68.71,8,27.48,577.16,10/28/2024,16:50:06,Cash,549.68,4.76,27.48,7.1
+422c936f-3fbb-42c6-902c-cec9c24f4a8c,B,Yangon,Member,Female,Health and beauty,87.17,4,17.43,366.11,03/12/2024,21:13:45,Credit card,348.68,4.76,17.43,2.0
+e9acf69d-36f5-474c-8e44-5f730cdf2e5b,B,Mandalay,Member,Male,Health and beauty,33.14,6,9.94,208.78,04/10/2024,17:22:22,Ewallet,198.84,4.76,9.94,3.4
+6cd3f20a-3219-49f0-9cc4-c05d640403d2,B,Mandalay,Normal,Female,Fashion accessories,93.57,5,23.39,491.24,08/31/2024,20:56:10,Ewallet,467.85,4.76,23.39,1.0
+1e090e79-10c3-4990-be24-29ba4324b60a,A,Naypyitaw,Member,Male,Fashion accessories,84.37,6,25.31,531.53,12/02/2024,16:22:16,Cash,506.22,4.76,25.31,1.9
+592046d0-cf7c-484e-94b1-a588e6fc2109,C,Yangon,Normal,Female,Home and lifestyle,36.64,8,14.66,307.78,05/19/2024,19:56:01,Ewallet,293.12,4.76,14.66,7.2
+57564b18-5db6-4633-ab86-a269693a2e4a,A,Naypyitaw,Normal,Male,Food and beverages,58.76,6,17.63,370.19,12/17/2024,21:03:27,Ewallet,352.56,4.76,17.63,3.4
+753a7df0-e609-4f18-b83c-7f9c1f0ac179,C,Mandalay,Normal,Male,Home and lifestyle,46.85,2,4.69,98.39,04/25/2024,09:01:02,Ewallet,93.7,4.77,4.69,2.7
+b04eac3d-8304-41cc-82f1-1fa384d9bd74,C,Naypyitaw,Normal,Male,Health and beauty,85.44,7,29.9,627.98,02/12/2024,17:20:52,Credit card,598.08,4.76,29.9,6.5
+651ec9f4-ffe4-425c-9b74-238ca4b9135f,B,Mandalay,Member,Female,Health and beauty,60.16,4,12.03,252.67,10/30/2024,09:42:43,Ewallet,240.64,4.76,12.03,9.2
+3a803a9d-1359-4362-879c-89c60d414a5e,B,Mandalay,Member,Male,Health and beauty,41.83,3,6.27,131.76,01/13/2025,10:22:14,Ewallet,125.49,4.76,6.27,2.6
+59d4a3cb-15a4-404b-9a77-b94ef30456ed,A,Mandalay,Member,Female,Food and beverages,84.12,7,29.44,618.28,12/23/2024,07:37:34,Ewallet,588.84,4.76,29.44,3.7
+7d0fdeaf-ee12-41b4-963f-cdb7f23b3fc4,A,Naypyitaw,Normal,Female,Sports and travel,11.02,7,3.86,81.0,08/27/2024,02:07:38,Credit card,77.14,4.77,3.86,3.5
+41abf848-9ab2-49ed-af0a-26426d1a1ae2,A,Yangon,Normal,Female,Sports and travel,82.36,9,37.06,778.3,11/17/2024,03:47:19,Ewallet,741.24,4.76,37.06,9.0
+d5a1ae22-7651-4316-aa75-5c9f11326eae,C,Mandalay,Normal,Male,Electronic accessories,41.26,3,6.19,129.97,01/25/2025,01:49:09,Credit card,123.78,4.76,6.19,5.4
+6e8db265-6a1a-4bd0-a1cc-979817f67d93,B,Mandalay,Normal,Male,Sports and travel,15.83,5,3.96,83.11,06/24/2024,13:25:48,Ewallet,79.15,4.76,3.96,2.5
+f03e0995-c781-41f7-91e6-3129d0ab9280,B,Mandalay,Member,Female,Health and beauty,99.71,2,9.97,209.39,08/11/2024,12:01:48,Credit card,199.42,4.76,9.97,3.5
+5f25ee46-118b-4ca8-90d5-212a1a4f6670,B,Mandalay,Member,Female,Electronic accessories,41.54,7,14.54,305.32,12/01/2024,21:47:28,Credit card,290.78,4.76,14.54,9.9
+de7d9aef-6b0e-47a2-a4bb-87fc9591c8ca,A,Mandalay,Normal,Female,Home and lifestyle,41.61,8,16.64,349.52,08/11/2024,03:28:56,Ewallet,332.88,4.76,16.64,2.0
+ceb4731f-0fc1-4b8c-a4c6-031960a47556,C,Naypyitaw,Member,Male,Electronic accessories,42.66,3,6.4,134.38,10/15/2024,07:15:20,Credit card,127.98,4.76,6.4,7.6
+10a290f1-349f-4c5a-9022-42a9ac4687ae,B,Yangon,Member,Male,Electronic accessories,12.62,9,5.68,119.26,08/03/2024,05:27:59,Ewallet,113.58,4.76,5.68,9.9
+60c51d03-344e-4d34-bd86-faf325f5e9d0,C,Naypyitaw,Member,Female,Health and beauty,74.66,5,18.66,391.96,08/10/2024,16:07:29,Ewallet,373.3,4.76,18.66,5.6
+ca02e934-cf73-49e2-92eb-601fd8e910da,C,Naypyitaw,Normal,Female,Health and beauty,60.32,1,3.02,63.34,09/07/2024,11:30:10,Credit card,60.32,4.77,3.02,4.6
+f9c5c982-c902-4a5e-893e-530875d8c399,A,Yangon,Normal,Female,Health and beauty,41.16,5,10.29,216.09,05/16/2024,18:32:31,Cash,205.8,4.76,10.29,8.5
+3ab8b556-62d8-4915-8461-622eed1312a6,B,Mandalay,Normal,Male,Sports and travel,51.48,4,10.3,216.22,12/25/2024,22:06:33,Cash,205.92,4.76,10.3,5.8
+3bd1ddc1-5b4c-43cb-820f-c520f495657e,C,Mandalay,Member,Female,Sports and travel,56.02,1,2.8,58.82,05/13/2024,15:39:15,Cash,56.02,4.76,2.8,4.3
+550c1d87-8722-497f-b048-393ab23d2d5c,B,Naypyitaw,Normal,Male,Health and beauty,30.19,5,7.55,158.5,12/13/2024,18:52:31,Cash,150.95,4.76,7.55,8.7
+a206770c-526d-4677-8b57-f3355126ef49,C,Yangon,Member,Male,Home and lifestyle,60.31,6,18.09,379.95,11/30/2024,15:43:11,Cash,361.86,4.76,18.09,3.5
+1dd9763c-5a23-462d-ac7e-a3c9df27a18b,A,Naypyitaw,Member,Female,Food and beverages,75.97,10,37.99,797.69,09/03/2024,07:48:39,Credit card,759.7,4.76,37.99,7.4
+50158259-2ddf-4e75-a23a-a537341909b2,A,Naypyitaw,Normal,Male,Electronic accessories,51.83,1,2.59,54.42,01/05/2025,09:36:27,Ewallet,51.83,4.76,2.59,1.7
+8bd6e944-b6aa-4c6c-a5fd-e1542a17bb18,C,Naypyitaw,Member,Male,Home and lifestyle,55.14,4,11.03,231.59,07/24/2024,00:43:40,Ewallet,220.56,4.76,11.03,2.4
+a3024832-90c3-4d56-9cea-55b525f09fa4,C,Naypyitaw,Member,Male,Home and lifestyle,27.9,5,6.98,146.48,12/28/2024,09:18:20,Credit card,139.5,4.77,6.98,6.0
+14417edc-23f0-415b-94ec-1fcc982c3cc2,B,Mandalay,Member,Male,Health and beauty,73.34,10,36.67,770.07,02/11/2024,14:31:16,Credit card,733.4,4.76,36.67,2.4
+861a4598-24a5-44d7-a59e-1785296ec405,C,Yangon,Member,Female,Electronic accessories,49.69,7,17.39,365.22,11/28/2024,10:25:13,Credit card,347.83,4.76,17.39,2.6
+c750c6e5-8a74-43e6-baaa-8eb21c8bf362,B,Yangon,Normal,Male,Food and beverages,60.24,1,3.01,63.25,05/27/2024,21:06:19,Ewallet,60.24,4.76,3.01,6.3
+549d984f-1b36-4991-8bf1-310e08c7f657,A,Yangon,Member,Male,Health and beauty,36.81,4,7.36,154.6,09/17/2024,14:34:21,Cash,147.24,4.76,7.36,6.2
+28e63a4a-098f-4cc1-bb1a-bbbdae5a3798,B,Yangon,Member,Male,Electronic accessories,85.72,4,17.14,360.02,12/15/2024,09:46:59,Cash,342.88,4.76,17.14,3.7
+afe1c00b-7d43-4fa8-9831-3ec731502929,C,Yangon,Normal,Female,Health and beauty,23.77,10,11.88,249.58,10/05/2024,06:36:15,Cash,237.7,4.76,11.88,8.1
+5c28448d-a399-4739-bec9-383e3e3e6ade,A,Naypyitaw,Normal,Female,Food and beverages,13.44,7,4.7,98.78,05/06/2024,00:11:08,Cash,94.08,4.76,4.7,6.9
+664d2088-6eaa-4cc6-9614-8c0928b1872f,A,Mandalay,Member,Female,Home and lifestyle,24.51,1,1.23,25.74,04/02/2024,02:18:43,Ewallet,24.51,4.78,1.23,8.8
+adca1dbf-5fa5-4778-8e44-89f37be457a2,C,Yangon,Member,Female,Food and beverages,98.38,8,39.35,826.39,07/19/2024,15:20:53,Credit card,787.04,4.76,39.35,4.3
+fe43fc68-d744-4fcf-a024-01069a4897fd,A,Mandalay,Normal,Male,Electronic accessories,55.53,6,16.66,349.84,07/03/2024,09:01:42,Credit card,333.18,4.76,16.66,7.6
+e7003ccd-fa2f-477d-85cf-4e2d5bb5dd3b,B,Mandalay,Member,Male,Health and beauty,69.49,1,3.47,72.96,06/23/2024,20:10:10,Credit card,69.49,4.76,3.47,5.6
+56135629-d01f-4401-aff5-68f2240d5a86,C,Yangon,Normal,Female,Home and lifestyle,57.69,8,23.08,484.6,10/04/2024,16:52:44,Credit card,461.52,4.76,23.08,7.4
+23769b68-6ae6-418b-b3f2-b642d31aa0e6,C,Naypyitaw,Member,Female,Health and beauty,42.55,7,14.89,312.74,09/29/2024,23:14:38,Cash,297.85,4.76,14.89,6.8
+9b2c27ab-10ac-4e6e-a319-58726bdd1abd,A,Naypyitaw,Normal,Male,Home and lifestyle,39.06,4,7.81,164.05,05/12/2024,19:19:57,Credit card,156.24,4.76,7.81,1.1
+23c132ec-59e7-48a6-80c0-c7f55cc206c7,A,Yangon,Normal,Male,Health and beauty,60.98,1,3.05,64.03,08/06/2024,02:42:30,Cash,60.98,4.76,3.05,1.1
+6e363bde-8d32-43b8-9f53-fcc1a90204fd,A,Yangon,Member,Male,Electronic accessories,99.85,9,44.93,943.58,06/20/2024,20:34:57,Cash,898.65,4.76,44.93,2.1
+a4f10916-0544-494e-9592-d24aa898479a,C,Mandalay,Member,Female,Home and lifestyle,72.78,4,14.56,305.68,06/23/2024,16:36:22,Credit card,291.12,4.76,14.56,6.6
+9e336d4d-6a09-4071-9458-1d35b4ff7ea0,B,Naypyitaw,Normal,Female,Electronic accessories,40.55,10,20.28,425.78,03/26/2024,04:39:36,Credit card,405.5,4.76,20.28,3.9
+e11ac986-9172-4ae3-a5ed-9aec923e6266,A,Yangon,Normal,Male,Fashion accessories,25.91,6,7.77,163.23,05/19/2024,11:50:14,Ewallet,155.46,4.76,7.77,6.1
+19fb95ed-e45a-48b2-a4fb-09849ab646f4,C,Naypyitaw,Member,Female,Food and beverages,13.58,4,2.72,57.04,09/30/2024,00:08:53,Credit card,54.32,4.77,2.72,3.8
+963b29da-2b69-455a-961a-a7c58ebe1dad,C,Mandalay,Normal,Female,Food and beverages,44.24,7,15.48,325.16,04/03/2024,10:39:10,Ewallet,309.68,4.76,15.48,1.4
+0926985d-b9c1-4c15-9a48-1e307691a209,A,Mandalay,Member,Male,Food and beverages,69.45,5,17.36,364.61,01/15/2025,02:41:13,Ewallet,347.25,4.76,17.36,6.2
+dff53c87-9d36-4c7c-94e7-748337c94475,C,Yangon,Normal,Female,Food and beverages,32.55,3,4.88,102.53,04/13/2024,08:04:10,Cash,97.65,4.76,4.88,9.6
+c588e604-c077-4c8e-a751-6bfe706012b7,B,Naypyitaw,Member,Male,Health and beauty,46.15,10,23.08,484.58,08/30/2024,13:18:27,Ewallet,461.5,4.76,23.08,7.5
+58a88943-679b-4574-822f-f5bb0c236dc5,C,Yangon,Member,Male,Fashion accessories,60.27,4,12.05,253.13,07/01/2024,09:33:07,Ewallet,241.08,4.76,12.05,5.0
+b2712331-0a5e-4a6a-b425-25f4c2bcd6af,B,Yangon,Normal,Female,Sports and travel,42.75,1,2.14,44.89,03/25/2024,17:35:27,Cash,42.75,4.77,2.14,4.5
+2c81e3d2-3305-42ee-ba56-302184a0988b,B,Yangon,Normal,Female,Fashion accessories,94.08,4,18.82,395.14,08/13/2024,04:44:13,Ewallet,376.32,4.76,18.82,7.3
+a1154f56-b5b5-48bc-91d6-d88bdf5cd353,A,Naypyitaw,Normal,Female,Sports and travel,36.44,9,16.4,344.36,05/26/2024,01:15:49,Ewallet,327.96,4.76,16.4,3.8
+79833a63-19b2-4256-9402-08a55bbaf11e,C,Yangon,Member,Female,Health and beauty,60.09,1,3.0,63.09,12/30/2024,00:15:00,Credit card,60.09,4.76,3.0,3.3
+92257464-c20a-4a85-974f-ede1c8239786,B,Mandalay,Member,Female,Food and beverages,74.59,10,37.3,783.2,05/03/2024,22:32:04,Credit card,745.9,4.76,37.3,6.7
+6ebcdefe-2040-48de-9142-70121d25841e,B,Naypyitaw,Member,Female,Electronic accessories,67.1,2,6.71,140.91,09/24/2024,18:16:14,Cash,134.2,4.76,6.71,9.0
+ed1f33e2-d884-4a10-b0e8-8c70a085be1e,C,Yangon,Member,Female,Sports and travel,72.27,9,32.52,682.95,03/25/2024,03:10:12,Ewallet,650.43,4.76,32.52,7.8
+ece7be31-8d0f-4316-a329-bb7d70fc5fe2,A,Yangon,Normal,Male,Electronic accessories,73.46,9,33.06,694.2,09/13/2024,18:31:02,Ewallet,661.14,4.76,33.06,4.4
+7399b69c-641e-4297-8b2e-5b87c3a909f4,C,Mandalay,Member,Male,Fashion accessories,49.58,9,22.31,468.53,11/20/2024,13:00:24,Credit card,446.22,4.76,22.31,9.3
+17bfcf7e-107c-4c24-8154-46f3b49382b3,C,Mandalay,Normal,Male,Health and beauty,65.74,5,16.43,345.13,10/21/2024,14:10:18,Cash,328.7,4.76,16.43,6.7
+45c1a759-024a-4335-b014-22e8a4a7504b,C,Yangon,Normal,Male,Sports and travel,76.26,3,11.44,240.22,04/15/2024,06:58:50,Ewallet,228.78,4.76,11.44,9.9
+f49b1a32-106c-46d6-a7ab-378c6bb1bcb4,C,Naypyitaw,Member,Female,Electronic accessories,10.54,6,3.16,66.4,05/28/2024,18:05:10,Credit card,63.24,4.76,3.16,6.2
+27a978e5-9568-407a-9f9e-ded72b769104,A,Yangon,Normal,Male,Food and beverages,93.26,5,23.32,489.62,09/22/2024,12:25:20,Credit card,466.3,4.76,23.32,3.6
+89509f92-9403-444a-b266-46b36805ffa3,B,Naypyitaw,Member,Male,Sports and travel,71.7,4,14.34,301.14,05/09/2024,02:11:08,Credit card,286.8,4.76,14.34,3.4
+b2ca7ff1-67ea-400b-8648-ea03d82352bd,C,Yangon,Member,Male,Sports and travel,84.06,10,42.03,882.63,03/20/2024,03:54:00,Cash,840.6,4.76,42.03,1.3
+cc861103-3105-4134-8243-44fe55683c7d,C,Naypyitaw,Member,Male,Food and beverages,91.3,4,18.26,383.46,03/19/2024,20:51:31,Credit card,365.2,4.76,18.26,5.2
+edd54578-6935-40b4-8e71-026370503ef8,B,Mandalay,Normal,Female,Food and beverages,33.2,9,14.94,313.74,07/05/2024,14:18:35,Cash,298.8,4.76,14.94,8.4
+164849c4-1d95-4178-9147-63ebbd253817,B,Mandalay,Normal,Female,Food and beverages,27.42,7,9.6,201.54,10/09/2024,15:12:52,Ewallet,191.94,4.76,9.6,5.7
+c917db94-268f-4aa7-bf46-f899121d8fc1,A,Naypyitaw,Normal,Female,Sports and travel,59.12,5,14.78,310.38,07/17/2024,17:13:09,Credit card,295.6,4.76,14.78,8.7
+736d14bb-8b1f-44fe-adda-074ae86f2317,C,Mandalay,Normal,Female,Fashion accessories,10.21,5,2.55,53.6,05/19/2024,03:45:41,Credit card,51.05,4.76,2.55,5.0
+6f711e67-ef75-4700-81b5-ef7ada427d67,C,Mandalay,Member,Male,Fashion accessories,43.54,2,4.35,91.43,08/10/2024,00:13:12,Credit card,87.08,4.76,4.35,5.7
+8a214d9a-53a3-4308-92bf-a81043162f11,C,Mandalay,Normal,Male,Home and lifestyle,64.9,10,32.45,681.45,02/08/2024,20:24:27,Credit card,649.0,4.76,32.45,6.6
+a39b028a-1dbe-435b-b33f-a1c7b73432e6,B,Yangon,Normal,Male,Home and lifestyle,32.06,9,14.43,302.97,11/08/2024,22:03:44,Ewallet,288.54,4.76,14.43,7.5
+ea112391-a1f9-46ca-9239-893d23c401d3,B,Yangon,Normal,Male,Sports and travel,15.88,8,6.35,133.39,01/14/2025,03:28:59,Credit card,127.04,4.76,6.35,8.5
+59ed2c48-c2fe-475e-bb8b-a406844d813f,A,Mandalay,Member,Male,Sports and travel,51.7,6,15.51,325.71,12/23/2024,13:03:26,Credit card,310.2,4.76,15.51,4.4
+9327b5d1-a7ff-45a9-9153-36d1c9705d2a,B,Yangon,Normal,Female,Electronic accessories,87.68,4,17.54,368.26,07/25/2024,17:53:45,Credit card,350.72,4.76,17.54,4.2
+9d3636e2-fae1-4019-a25a-e21191447ecb,B,Mandalay,Member,Male,Food and beverages,29.73,2,2.97,62.43,01/07/2025,03:37:23,Credit card,59.46,4.76,2.97,8.2
+f9208c08-aca1-4261-a890-fa66dd420ba3,A,Yangon,Normal,Male,Food and beverages,45.53,8,18.21,382.45,12/08/2024,15:15:53,Credit card,364.24,4.76,18.21,3.8
+f352629f-1390-4027-9b86-ff51e94d9d9e,C,Mandalay,Normal,Male,Sports and travel,15.45,1,0.77,16.22,11/18/2024,20:23:47,Ewallet,15.45,4.75,0.77,7.0
+b6673b5d-78f5-46ce-96c8-66e4f6d22ef7,A,Naypyitaw,Normal,Female,Health and beauty,72.53,2,7.25,152.31,05/22/2024,04:51:19,Ewallet,145.06,4.76,7.25,7.6
+6193dfd7-3331-439f-a449-bb1b0a9a147c,A,Mandalay,Normal,Male,Health and beauty,62.56,2,6.26,131.38,04/11/2024,23:37:09,Ewallet,125.12,4.76,6.26,2.9
+74d85227-f972-4234-a2fd-88a9e840d9be,A,Naypyitaw,Member,Male,Fashion accessories,64.06,10,32.03,672.63,12/20/2024,18:08:39,Ewallet,640.6,4.76,32.03,3.5
+0beb0835-28e1-4da9-8405-0606f3b7d79e,A,Naypyitaw,Normal,Male,Home and lifestyle,56.32,8,22.53,473.09,03/28/2024,23:15:05,Credit card,450.56,4.76,22.53,8.2
+f3db03fe-7f82-452c-8e72-c70d507c873f,B,Naypyitaw,Normal,Male,Health and beauty,14.07,3,2.11,44.32,07/24/2024,00:30:32,Ewallet,42.21,4.76,2.11,7.1
+092542e9-f8d9-4405-9402-47cf2ff75bf3,C,Yangon,Member,Male,Fashion accessories,14.99,9,6.75,141.66,08/31/2024,09:03:52,Credit card,134.91,4.76,6.75,7.1
+390deb9f-9c30-4be1-b19a-a5a832d75459,B,Naypyitaw,Normal,Female,Home and lifestyle,36.27,9,16.32,342.75,04/20/2024,15:54:37,Ewallet,326.43,4.76,16.32,1.6
+50c3241b-ca88-4b70-bbdc-67526b0347e4,B,Naypyitaw,Normal,Female,Electronic accessories,81.83,3,12.27,257.76,09/01/2024,08:33:10,Ewallet,245.49,4.76,12.27,1.6
+05c9858c-0574-481e-b596-fd99f31612e3,A,Naypyitaw,Member,Male,Health and beauty,94.41,10,47.2,991.3,09/21/2024,13:53:10,Credit card,944.1,4.76,47.2,5.1
+c2f03a57-fcc1-4774-92dc-4142a43baa02,C,Mandalay,Normal,Female,Electronic accessories,33.14,10,16.57,347.97,07/18/2024,03:21:37,Ewallet,331.4,4.76,16.57,6.8
+33681e9c-8f2b-4a72-8e85-eb1cfac15fa1,B,Yangon,Member,Male,Health and beauty,82.85,3,12.43,260.98,01/16/2025,11:26:27,Ewallet,248.55,4.76,12.43,3.7
+a39415d1-85a4-481f-aa67-5cb2f95fbe9d,B,Naypyitaw,Member,Female,Health and beauty,23.36,5,5.84,122.64,12/10/2024,18:27:06,Ewallet,116.8,4.76,5.84,8.6
+467a58ff-7434-4708-8f2d-e0820ec31f32,C,Mandalay,Normal,Male,Health and beauty,71.43,7,25.0,525.01,07/27/2024,05:28:17,Cash,500.01,4.76,25.0,7.1
+118951db-29e1-484f-b418-16d9e473847e,A,Mandalay,Member,Female,Electronic accessories,20.13,9,9.06,190.23,09/27/2024,01:49:32,Cash,181.17,4.76,9.06,4.1
+30c9fc40-ed2b-4023-b6a5-032b497b999c,A,Mandalay,Member,Female,Food and beverages,41.0,4,8.2,172.2,05/28/2024,02:52:40,Credit card,164.0,4.76,8.2,2.4
+10f8ed63-1830-4a5a-9c98-7bda039395fb,C,Naypyitaw,Normal,Male,Food and beverages,93.78,1,4.69,98.47,02/27/2024,14:14:07,Ewallet,93.78,4.76,4.69,10.0
+203284ae-643e-4df5-91be-e2861abb5c92,B,Naypyitaw,Member,Male,Fashion accessories,51.01,7,17.85,374.92,10/28/2024,00:11:19,Ewallet,357.07,4.76,17.85,6.0
+897cfc8f-48e7-44f7-ab23-a00251334b6b,C,Mandalay,Member,Female,Food and beverages,15.71,2,1.57,32.99,09/16/2024,14:01:26,Cash,31.42,4.76,1.57,4.7
+bc45e520-6bb0-4e64-b96d-f102bb477960,C,Mandalay,Normal,Male,Fashion accessories,17.33,7,6.07,127.38,05/03/2024,00:17:44,Cash,121.31,4.77,6.07,6.2
+cdcf0e3e-550b-4462-aafa-4c93fd88d4e6,B,Mandalay,Member,Male,Sports and travel,16.97,5,4.24,89.09,07/28/2024,23:51:10,Ewallet,84.85,4.76,4.24,8.0
+53cf3453-b74a-4012-b9e7-d5b47969ac4b,C,Mandalay,Member,Female,Electronic accessories,93.97,9,42.29,888.02,08/23/2024,03:40:34,Ewallet,845.73,4.76,42.29,3.1
+a3809d29-789d-4a22-8813-c405c5ce7c39,C,Yangon,Normal,Male,Home and lifestyle,75.7,9,34.07,715.37,12/09/2024,18:31:07,Ewallet,681.3,4.76,34.07,6.1
+3f4b27e9-2468-454b-b173-e4f3ba964dd8,B,Mandalay,Normal,Female,Home and lifestyle,78.38,4,15.68,329.2,02/18/2024,05:01:56,Cash,313.52,4.76,15.68,5.0
+93156025-161e-4108-8425-25a07bac284e,C,Mandalay,Member,Male,Home and lifestyle,12.5,1,0.62,13.12,03/11/2024,21:00:08,Ewallet,12.5,4.73,0.62,8.9
+ddf4bc4d-c390-4c50-be56-5edf97659ff4,A,Yangon,Member,Female,Sports and travel,97.73,9,43.98,923.55,05/13/2024,08:00:16,Cash,879.57,4.76,43.98,5.1
+286187fe-bc87-410a-8034-363e76206cd7,A,Yangon,Member,Male,Home and lifestyle,76.17,7,26.66,559.85,07/26/2024,15:16:41,Credit card,533.19,4.76,26.66,9.9
+a32529f5-6484-4e33-b9fe-7116e7005554,C,Yangon,Normal,Female,Fashion accessories,49.32,2,4.93,103.57,05/02/2024,13:11:12,Cash,98.64,4.76,4.93,1.6
+cc5124e6-d6ab-499e-bfb4-432c2092f812,A,Yangon,Normal,Female,Health and beauty,87.72,9,39.47,828.95,07/06/2024,03:57:39,Cash,789.48,4.76,39.47,9.3
+741ad34c-7e4f-4d4d-a399-e558f945b1ce,C,Yangon,Normal,Female,Sports and travel,53.72,1,2.69,56.41,07/13/2024,04:23:15,Cash,53.72,4.77,2.69,1.0
+8e1a70c3-34d3-4685-9ca6-4cf851aca410,A,Naypyitaw,Normal,Male,Health and beauty,52.21,1,2.61,54.82,07/09/2024,23:03:27,Cash,52.21,4.76,2.61,7.3
+916915a2-653f-45f0-be46-567d669229af,C,Naypyitaw,Member,Male,Food and beverages,59.72,6,17.92,376.24,12/12/2024,18:23:36,Credit card,358.32,4.76,17.92,7.2
+4e5204f2-48d6-478f-a98f-cb7a3bd506b7,B,Mandalay,Normal,Female,Home and lifestyle,43.57,10,21.79,457.49,09/30/2024,23:33:18,Credit card,435.7,4.76,21.79,5.0
+3ddc9ece-46b4-4a22-b490-6eecf122bc57,C,Yangon,Normal,Female,Food and beverages,99.57,7,34.85,731.84,03/17/2024,07:39:40,Credit card,696.99,4.76,34.85,8.8
+4f14c15a-5c5f-4a7f-9312-abf0a253777b,B,Mandalay,Normal,Female,Electronic accessories,27.67,9,12.45,261.48,10/15/2024,02:23:44,Ewallet,249.03,4.76,12.45,8.2
+d36127cd-8532-4d79-9cc8-3b4d8b4f8a72,C,Naypyitaw,Normal,Male,Fashion accessories,49.53,10,24.77,520.07,06/05/2024,11:03:50,Cash,495.3,4.76,24.77,1.8
+fc1c46f2-dd9f-462c-adaf-0046ff5f5a6e,B,Naypyitaw,Member,Female,Electronic accessories,51.72,6,15.52,325.84,02/15/2024,01:41:32,Credit card,310.32,4.76,15.52,5.0
+46901e81-4dc9-410c-98f0-74a2192ff100,B,Mandalay,Normal,Female,Fashion accessories,48.55,3,7.28,152.93,08/08/2024,14:35:03,Credit card,145.65,4.76,7.28,7.4
+0a20d577-b319-495f-83ce-5eebf839137b,A,Mandalay,Normal,Female,Home and lifestyle,50.55,5,12.64,265.39,09/03/2024,17:28:04,Credit card,252.75,4.76,12.64,5.5
+c0312d5a-58f0-418a-9b98-3e768d7b694d,B,Mandalay,Normal,Female,Fashion accessories,87.11,6,26.13,548.79,04/25/2024,05:33:59,Cash,522.66,4.76,26.13,6.7
+3b61f301-c4e5-4a47-bd87-d704e9fa751b,A,Yangon,Member,Male,Health and beauty,17.28,3,2.59,54.43,12/01/2024,18:23:54,Credit card,51.84,4.76,2.59,9.6
+5e408971-c8ab-4bfa-9ba5-0a9397a49dd4,C,Naypyitaw,Member,Male,Electronic accessories,99.19,3,14.88,312.45,01/04/2025,02:50:55,Credit card,297.57,4.76,14.88,8.6
+457cc385-885f-48a7-9046-11bdde25bbb6,B,Naypyitaw,Normal,Female,Food and beverages,17.81,5,4.45,93.5,09/04/2024,11:31:54,Ewallet,89.05,4.76,4.45,7.6
+bf87e3fc-982c-4ed4-8af8-2f6daee345f2,A,Mandalay,Normal,Female,Health and beauty,92.17,1,4.61,96.78,07/12/2024,18:38:11,Credit card,92.17,4.76,4.61,9.7
+b20b942b-6a65-4405-81bd-a8171d6bb3e3,C,Mandalay,Member,Female,Food and beverages,64.57,4,12.91,271.19,07/19/2024,10:15:32,Cash,258.28,4.76,12.91,3.7
+64e5f62a-50bb-465a-9df4-066b251d136d,C,Mandalay,Normal,Female,Electronic accessories,91.21,9,41.04,861.93,11/27/2024,03:40:40,Credit card,820.89,4.76,41.04,3.9
+67207932-70d1-447e-af60-4d87c29e1b20,C,Mandalay,Normal,Male,Electronic accessories,15.67,9,7.05,148.08,01/29/2025,16:46:23,Cash,141.03,4.76,7.05,2.5
+57c4d95b-04fa-417c-b108-6d3e367c36fd,A,Yangon,Normal,Female,Sports and travel,51.32,6,15.4,323.32,07/05/2024,15:19:56,Ewallet,307.92,4.76,15.4,7.8
+c214fee5-3cf7-48c0-aa05-96d5451a1ecd,A,Naypyitaw,Member,Female,Food and beverages,78.57,6,23.57,494.99,01/15/2025,18:29:37,Credit card,471.42,4.76,23.57,6.9
+b771cbae-e4ed-425b-9d81-bc37afb84d4f,A,Mandalay,Normal,Male,Sports and travel,58.53,1,2.93,61.46,03/19/2024,03:44:05,Cash,58.53,4.77,2.93,2.4
+b0e1e9f8-0bf0-4d04-87b3-216869f33831,A,Yangon,Member,Male,Home and lifestyle,80.64,10,40.32,846.72,06/12/2024,18:48:14,Cash,806.4,4.76,40.32,4.3
+fb0e350f-7c85-4c28-bc8b-3fcfcb1fa107,C,Naypyitaw,Normal,Male,Sports and travel,83.28,4,16.66,349.78,10/31/2024,20:58:37,Cash,333.12,4.76,16.66,9.6
+382c9cb3-7e74-4dca-8087-73a95f6623bc,A,Mandalay,Normal,Female,Food and beverages,40.86,4,8.17,171.61,04/03/2024,13:01:33,Cash,163.44,4.76,8.17,4.8
+81e63ae4-8474-47b7-90fd-cfaf1d949e18,C,Naypyitaw,Member,Female,Fashion accessories,80.86,9,36.39,764.13,11/17/2024,01:17:46,Cash,727.74,4.76,36.39,3.2
+804822ef-e07a-4302-86b9-0ffc831d2de6,C,Naypyitaw,Member,Female,Sports and travel,69.27,8,27.71,581.87,09/01/2024,22:50:39,Credit card,554.16,4.76,27.71,9.6
+d4ec3b21-4210-4b1b-9a81-0d739860fb77,B,Naypyitaw,Member,Female,Health and beauty,18.67,7,6.53,137.22,03/20/2024,19:39:15,Cash,130.69,4.76,6.53,6.2
+89456902-74b2-4945-b5c1-4e8dc455d0f3,C,Yangon,Member,Male,Fashion accessories,51.74,2,5.17,108.65,10/20/2024,23:05:40,Ewallet,103.48,4.76,5.17,7.3
+9ba7928a-76b2-42f2-ac3b-e997702c5591,C,Naypyitaw,Normal,Female,Sports and travel,75.01,7,26.25,551.32,07/30/2024,10:10:39,Ewallet,525.07,4.76,26.25,4.8
+6bac7501-27e5-45b4-b80c-0179c24533e9,B,Yangon,Member,Male,Health and beauty,96.04,10,48.02,1008.42,03/18/2024,08:47:28,Ewallet,960.4,4.76,48.02,2.1
+537a1db4-8baa-4f59-9269-bdfcd139a274,A,Naypyitaw,Member,Female,Fashion accessories,70.9,10,35.45,744.45,04/28/2024,01:26:52,Cash,709.0,4.76,35.45,9.4
+f15e7da2-d5da-444f-b02a-c202817820f1,A,Naypyitaw,Member,Female,Home and lifestyle,31.2,2,3.12,65.52,06/01/2024,21:11:19,Cash,62.4,4.76,3.12,7.2
+22d2c83b-dbe7-4693-8faa-4d91c70efb47,A,Mandalay,Normal,Female,Home and lifestyle,62.81,3,9.42,197.85,02/01/2025,00:33:00,Ewallet,188.43,4.76,9.42,8.2
+556d49bd-dd74-4455-acea-8cdd18c240bc,C,Naypyitaw,Member,Male,Fashion accessories,79.54,5,19.89,417.59,12/21/2024,07:38:36,Ewallet,397.7,4.76,19.89,4.1
+513aeb65-08e9-49c9-88e7-f127b516a4bc,B,Mandalay,Member,Female,Health and beauty,24.37,5,6.09,127.94,03/08/2024,04:37:02,Credit card,121.85,4.76,6.09,9.6
+a3c503cb-b380-425b-a447-209774fd3555,A,Naypyitaw,Member,Male,Electronic accessories,65.8,4,13.16,276.36,03/04/2024,13:17:41,Ewallet,263.2,4.76,13.16,7.1
+de7d9021-9415-448d-b82d-f0178e8adf0e,A,Yangon,Member,Female,Sports and travel,19.41,6,5.82,122.28,04/26/2024,05:40:53,Credit card,116.46,4.76,5.82,1.6
+529cac61-3684-4f47-b56a-5126e9e5a7a5,B,Mandalay,Member,Female,Fashion accessories,76.41,2,7.64,160.46,06/11/2024,13:00:40,Cash,152.82,4.76,7.64,2.4
+8dcc8bdb-0b32-4633-9268-ca4b6fc6d17a,C,Naypyitaw,Normal,Male,Food and beverages,17.79,10,8.89,186.79,12/04/2024,21:52:35,Ewallet,177.9,4.76,8.89,6.8
+8038e909-fc33-41f9-bd55-8d6f74c938ff,C,Naypyitaw,Normal,Male,Electronic accessories,38.41,7,13.44,282.31,09/01/2024,22:53:35,Ewallet,268.87,4.76,13.44,7.3
+7932547b-43a9-4345-b1d5-5f260be50766,A,Mandalay,Member,Female,Food and beverages,48.08,2,4.81,100.97,04/14/2024,19:08:34,Cash,96.16,4.76,4.81,6.8
+7f749538-033c-4a0b-a15d-1caa59ba4e59,A,Naypyitaw,Member,Female,Home and lifestyle,30.67,7,10.73,225.42,01/11/2025,17:40:11,Ewallet,214.69,4.76,10.73,2.8
+6c6510e4-a105-483e-a29d-63403df2170e,A,Yangon,Member,Male,Home and lifestyle,23.46,5,5.87,123.17,06/06/2024,07:32:09,Cash,117.3,4.77,5.87,7.2
+f8004c06-c182-40ba-b34c-33f52b75c053,A,Yangon,Member,Female,Fashion accessories,73.31,10,36.66,769.76,02/02/2025,02:08:04,Cash,733.1,4.76,36.66,2.2
+55987158-2aec-4f83-9d55-ca7cd2b0a866,C,Mandalay,Member,Female,Food and beverages,69.16,8,27.66,580.94,10/09/2024,09:24:42,Credit card,553.28,4.76,27.66,9.7
+b0da679f-0dd4-4714-a482-9ccdcbf6e95a,B,Mandalay,Member,Male,Health and beauty,78.57,4,15.71,329.99,11/02/2024,08:29:36,Credit card,314.28,4.76,15.71,1.9
+3ffc14d6-dce0-4c53-b285-09cb296bb518,A,Mandalay,Member,Female,Home and lifestyle,57.8,3,8.67,182.07,03/16/2024,09:29:17,Ewallet,173.4,4.76,8.67,6.1
+fc7f641b-7d99-4a92-827f-576c71c7fd74,C,Naypyitaw,Member,Female,Fashion accessories,39.33,9,17.7,371.67,02/18/2024,02:43:57,Credit card,353.97,4.76,17.7,4.0
+4d38208b-7b43-4862-841b-ff9145c3df07,B,Mandalay,Normal,Female,Sports and travel,25.24,1,1.26,26.5,08/23/2024,19:36:01,Cash,25.24,4.75,1.26,8.4
+6f5a3711-bfc2-4317-ba6c-3ab98c0d3fc8,A,Mandalay,Normal,Male,Home and lifestyle,60.46,4,12.09,253.93,06/27/2024,13:11:52,Ewallet,241.84,4.76,12.09,2.5
+bc71bff6-0d26-4401-8c68-a875b95269d6,C,Yangon,Normal,Male,Sports and travel,96.57,3,14.49,304.2,09/03/2024,07:30:15,Ewallet,289.71,4.76,14.49,6.5
+318feca6-ed0a-4b84-a3c9-438c0175620c,C,Mandalay,Member,Male,Electronic accessories,77.52,7,27.13,569.77,03/18/2024,22:46:44,Credit card,542.64,4.76,27.13,9.4
+ed19912d-4d3e-45d9-a991-3a4f3f0dc9e8,C,Yangon,Normal,Male,Electronic accessories,60.21,5,15.05,316.1,11/25/2024,20:04:36,Credit card,301.05,4.76,15.05,8.9
+9e359707-ac86-40e2-a2e1-a8ae42df754b,B,Mandalay,Member,Male,Sports and travel,45.26,10,22.63,475.23,09/10/2024,19:27:34,Credit card,452.6,4.76,22.63,6.2
+3a7b4089-e2fb-455d-a4cd-ca031b3cfbc5,C,Yangon,Normal,Male,Electronic accessories,32.75,2,3.28,68.78,08/28/2024,12:24:23,Ewallet,65.5,4.77,3.28,5.5
+8b9a2210-6d52-4937-b6cf-6c636adc871c,A,Mandalay,Normal,Female,Sports and travel,45.45,4,9.09,190.89,05/06/2024,02:45:06,Credit card,181.8,4.76,9.09,9.2
+e6888edd-d609-489a-b2c7-733ca67455a4,C,Mandalay,Normal,Female,Electronic accessories,49.57,1,2.48,52.05,10/02/2024,23:09:40,Cash,49.57,4.76,2.48,7.7
+89aecc57-2f78-479c-8d7b-a22cd3ef6c70,B,Naypyitaw,Normal,Male,Food and beverages,65.57,1,3.28,68.85,07/06/2024,12:49:20,Cash,65.57,4.76,3.28,1.3
+ba44eaa0-7bbb-417f-880b-55c5d5b8ba1e,C,Yangon,Normal,Male,Health and beauty,42.88,7,15.01,315.17,03/14/2024,12:38:21,Ewallet,300.16,4.76,15.01,8.8
+689bbdd3-2ee5-4d76-ab95-1eba39ad91e6,C,Naypyitaw,Member,Male,Sports and travel,66.45,6,19.94,418.64,09/25/2024,09:02:10,Cash,398.7,4.76,19.94,4.4
+52d50999-2e84-4fd4-b6cc-6389a672875e,A,Naypyitaw,Member,Male,Home and lifestyle,84.96,1,4.25,89.21,07/21/2024,03:15:17,Cash,84.96,4.76,4.25,7.7
+61697cb6-25a1-4040-9486-0c50a8a4c8b9,C,Naypyitaw,Normal,Female,Home and lifestyle,81.27,8,32.51,682.67,10/13/2024,10:08:29,Credit card,650.16,4.76,32.51,9.6
+2ed346ef-64a0-4f32-a6e5-6d30271ab535,C,Yangon,Member,Male,Electronic accessories,92.72,8,37.09,778.85,05/18/2024,07:03:27,Ewallet,741.76,4.76,37.09,6.1
+ec892044-1db3-4531-9d24-28bdd02f7017,C,Yangon,Normal,Male,Home and lifestyle,29.47,1,1.47,30.94,03/05/2024,19:16:27,Ewallet,29.47,4.75,1.47,3.1
+bab57641-c8a2-4202-993c-9e1e5b7eaf52,C,Mandalay,Member,Male,Fashion accessories,79.73,3,11.96,251.15,02/07/2024,03:13:52,Cash,239.19,4.76,11.96,8.0
+1df6b075-2864-4f01-8818-b81b31751c89,A,Mandalay,Member,Female,Health and beauty,24.36,6,7.31,153.47,03/25/2024,05:50:13,Ewallet,146.16,4.76,7.31,7.1
+dc306d90-e55d-40e1-bf30-a5cdc6e183c4,A,Mandalay,Normal,Female,Electronic accessories,37.97,7,13.29,279.08,04/28/2024,07:11:59,Ewallet,265.79,4.76,13.29,9.6
+a2401d2f-c5fa-4220-918f-dfd806671e8d,B,Mandalay,Normal,Female,Electronic accessories,65.41,6,19.62,412.08,10/11/2024,14:15:58,Cash,392.46,4.76,19.62,8.9
+3499a5ca-34f6-4081-827b-1f76d9d563e2,C,Naypyitaw,Normal,Female,Health and beauty,20.41,10,10.21,214.31,02/24/2024,12:45:55,Cash,204.1,4.76,10.21,8.9
+aafa69b7-10c8-47fb-9103-f3cf7250a1b6,A,Naypyitaw,Normal,Female,Fashion accessories,73.63,2,7.36,154.62,06/29/2024,11:10:26,Ewallet,147.26,4.76,7.36,5.2
+c0aa123d-a1b5-4422-b3fd-dcdaf6ef2b02,C,Mandalay,Normal,Male,Electronic accessories,76.04,4,15.21,319.37,02/14/2024,23:30:53,Credit card,304.16,4.76,15.21,5.7
+26a4a4d7-76e8-4665-82fc-cf7cccf0b047,B,Naypyitaw,Normal,Female,Fashion accessories,54.72,9,24.62,517.1,08/16/2024,02:47:57,Ewallet,492.48,4.76,24.62,9.2
+6cc471bc-6b8a-471f-9910-8b68b485d861,A,Yangon,Member,Female,Electronic accessories,93.09,6,27.93,586.47,07/21/2024,21:56:03,Ewallet,558.54,4.76,27.93,4.1
+4f1354b0-13b2-4f03-9e05-1d039884960c,A,Naypyitaw,Normal,Female,Food and beverages,45.1,1,2.26,47.36,05/20/2024,21:11:26,Cash,45.1,4.77,2.26,6.2
+aada71c1-a006-4752-a996-dac1d0cf9779,B,Mandalay,Normal,Female,Fashion accessories,13.35,7,4.67,98.12,04/07/2024,18:25:36,Credit card,93.45,4.76,4.67,7.5
+f680ec47-0cbb-41c9-8f56-40316007803c,B,Naypyitaw,Normal,Female,Food and beverages,95.81,6,28.74,603.6,02/12/2024,21:36:44,Ewallet,574.86,4.76,28.74,6.7
+7e9093ec-a956-46c4-a275-4c584b5cb31d,A,Mandalay,Member,Male,Home and lifestyle,25.57,8,10.23,214.79,11/11/2024,18:19:34,Ewallet,204.56,4.76,10.23,1.8
+b57782ba-3a1b-493f-953f-3b830065814a,C,Mandalay,Member,Female,Health and beauty,85.52,8,34.21,718.37,11/09/2024,09:32:35,Credit card,684.16,4.76,34.21,3.5
+b32f7228-8277-4f3a-a79e-521b7f7f4ec6,A,Mandalay,Member,Female,Home and lifestyle,58.1,6,17.43,366.03,12/25/2024,10:03:58,Credit card,348.6,4.76,17.43,9.5
+de7d8758-9d99-4d16-85e3-026818bff351,A,Yangon,Member,Female,Sports and travel,33.55,7,11.74,246.59,01/07/2025,12:21:28,Cash,234.85,4.76,11.74,4.2
+06b74207-ce45-41ec-adcf-c84392366da0,B,Mandalay,Member,Male,Food and beverages,67.15,6,20.15,423.05,01/21/2025,07:47:43,Ewallet,402.9,4.76,20.15,4.8
+7e0fe4af-247a-4fb3-8412-fc1b3b7f24ae,B,Mandalay,Member,Male,Sports and travel,22.08,6,6.62,139.1,12/28/2024,05:13:08,Ewallet,132.48,4.76,6.62,6.0
+d6b28e4d-f3c9-48fe-a0dd-69f45ea35ab0,B,Mandalay,Normal,Male,Fashion accessories,56.16,2,5.62,117.94,09/15/2024,11:38:26,Credit card,112.32,4.77,5.62,2.7
+929dd8d8-1705-480e-8aa9-bf4e0a053499,A,Naypyitaw,Member,Female,Health and beauty,91.8,2,9.18,192.78,01/11/2025,00:08:48,Cash,183.6,4.76,9.18,9.8
+35f18868-9343-4fbf-a183-19b4532ab4de,C,Mandalay,Normal,Male,Health and beauty,52.8,9,23.76,498.96,11/16/2024,18:32:59,Cash,475.2,4.76,23.76,4.8
+cccc1a11-a16b-4284-b4b4-e885c497e27a,C,Yangon,Normal,Male,Health and beauty,14.22,8,5.69,119.45,07/25/2024,10:12:50,Credit card,113.76,4.76,5.69,1.3
+4fe5ed64-100b-4cb1-a1a4-dbaa2431cd8d,B,Naypyitaw,Member,Male,Home and lifestyle,24.51,4,4.9,102.94,11/28/2024,21:21:17,Cash,98.04,4.76,4.9,3.9
+51b72744-e566-41a4-8597-3857715bae1d,B,Yangon,Normal,Female,Fashion accessories,77.5,4,15.5,325.5,02/14/2024,17:29:03,Credit card,310.0,4.76,15.5,3.8
+32fa1136-3683-4226-a44e-a561cc8c9bc4,C,Naypyitaw,Member,Female,Health and beauty,89.56,1,4.48,94.04,01/09/2025,23:35:58,Cash,89.56,4.76,4.48,2.9
+b49d8c2b-2258-4b31-bbf6-eea266549126,C,Mandalay,Normal,Male,Home and lifestyle,37.12,7,12.99,272.83,06/03/2024,03:44:02,Credit card,259.84,4.76,12.99,3.9
+bfcd0eee-87fd-453a-a719-96ceaa95c327,C,Naypyitaw,Normal,Female,Health and beauty,76.53,2,7.65,160.71,04/26/2024,10:20:08,Cash,153.06,4.76,7.65,1.7
+46f7679b-295f-430c-a7bb-1bf844228dca,B,Mandalay,Normal,Female,Health and beauty,19.06,1,0.95,20.01,09/07/2024,18:24:41,Credit card,19.06,4.75,0.95,6.5
+5be808a9-2e3f-4d48-aa81-e247d4447325,B,Mandalay,Normal,Male,Health and beauty,51.71,6,15.51,325.77,10/03/2024,15:06:15,Credit card,310.26,4.76,15.51,4.4
+cb000028-5ef3-4ba3-9423-6bdf55a07dc0,B,Mandalay,Member,Female,Home and lifestyle,30.8,8,12.32,258.72,12/15/2024,16:29:56,Ewallet,246.4,4.76,12.32,8.6
+5e6b9cab-1cfa-470f-8f49-f5ac57350f66,B,Mandalay,Member,Female,Food and beverages,13.58,7,4.75,99.81,08/09/2024,13:04:05,Ewallet,95.06,4.76,4.75,8.0
+37ffc093-05b1-4449-bf63-0911d3b9c9e1,A,Naypyitaw,Member,Male,Electronic accessories,98.37,4,19.67,413.15,09/08/2024,02:27:29,Credit card,393.48,4.76,19.67,4.3
+446cd7a9-4475-4d03-9c41-efc9528ed3f3,C,Naypyitaw,Normal,Female,Home and lifestyle,26.28,7,9.2,193.16,02/01/2025,12:23:44,Cash,183.96,4.76,9.2,4.1
+9fc15bc0-6410-4636-a6a7-130e60cd1698,B,Mandalay,Normal,Female,Food and beverages,74.79,7,26.18,549.71,10/31/2024,11:55:20,Cash,523.53,4.76,26.18,3.0
+971de929-2cf2-4eb1-b9fa-f26155ad868b,A,Yangon,Normal,Male,Food and beverages,43.29,3,6.49,136.36,10/10/2024,02:07:24,Credit card,129.87,4.76,6.49,2.5
+eeefaa55-b81b-479f-922f-cdbd2e9da78e,A,Yangon,Member,Male,Electronic accessories,58.67,5,14.67,308.02,04/03/2024,12:18:53,Credit card,293.35,4.76,14.67,7.9
+c984ac5e-2b2e-46d2-a082-d75379ad7c1a,C,Yangon,Normal,Male,Electronic accessories,37.07,2,3.71,77.85,09/19/2024,09:18:50,Ewallet,74.14,4.77,3.71,5.8
+d8a1acee-bd27-492d-95ab-051d060e76a6,A,Yangon,Member,Female,Sports and travel,97.75,3,14.66,307.91,03/12/2024,13:43:02,Ewallet,293.25,4.76,14.66,5.0
+2e80dd3d-50cd-47b6-a5ae-f44fe6e6f29f,A,Yangon,Member,Male,Health and beauty,94.22,2,9.42,197.86,02/03/2025,06:48:29,Ewallet,188.44,4.76,9.42,7.3
+cc352bb0-9935-48b7-b384-92d396f4d13e,A,Yangon,Normal,Male,Fashion accessories,64.09,10,32.05,672.95,06/21/2024,19:19:58,Credit card,640.9,4.76,32.05,7.4
+c19793a1-4a5a-4249-ab82-3d3d2fc39a7e,C,Naypyitaw,Normal,Male,Food and beverages,97.0,1,4.85,101.85,04/10/2024,10:18:36,Ewallet,97.0,4.76,4.85,1.9
+1bfee5a8-568b-4160-bdab-844242fafe69,B,Mandalay,Normal,Male,Sports and travel,97.97,10,48.99,1028.69,12/15/2024,00:33:59,Ewallet,979.7,4.76,48.99,4.5
+232b9761-4dc7-44d7-97de-b6df36d344cb,C,Mandalay,Normal,Female,Sports and travel,63.43,6,19.03,399.61,02/18/2024,23:37:07,Cash,380.58,4.76,19.03,8.4
+99258c63-1160-4a36-a6d0-1a243f5cd47b,C,Mandalay,Member,Male,Food and beverages,32.03,4,6.41,134.53,10/27/2024,01:32:53,Credit card,128.12,4.76,6.41,5.6
+33415e96-8e9f-44f9-baf8-d41bd9e1d03d,C,Yangon,Member,Male,Health and beauty,75.48,2,7.55,158.51,01/25/2025,21:37:35,Cash,150.96,4.76,7.55,5.3
+62f1d95b-f20f-4883-aa57-491dc875aea6,C,Yangon,Member,Male,Home and lifestyle,61.86,2,6.19,129.91,09/16/2024,11:31:33,Ewallet,123.72,4.76,6.19,3.9
+9c30df63-2308-48c6-a019-c3494da187dc,C,Yangon,Member,Male,Fashion accessories,18.94,1,0.95,19.89,01/27/2025,03:03:41,Ewallet,18.94,4.78,0.95,9.6
+5dd03d5b-2c2e-4901-8c2e-9fd214fb4638,B,Naypyitaw,Normal,Male,Sports and travel,67.5,6,20.25,425.25,01/14/2025,06:42:49,Ewallet,405.0,4.76,20.25,9.5
+7f7f5a01-5f49-47ad-8e5a-56f52893c915,B,Yangon,Normal,Male,Food and beverages,11.08,2,1.11,23.27,04/05/2024,04:54:30,Ewallet,22.16,4.77,1.11,4.2
+37e60436-7b34-41e3-825c-4318ba842fe5,B,Naypyitaw,Member,Female,Home and lifestyle,86.14,3,12.92,271.34,08/28/2024,16:06:58,Cash,258.42,4.76,12.92,4.8
+f007676b-2971-417b-b05a-dfeb0674bca2,A,Yangon,Member,Female,Health and beauty,97.9,3,14.69,308.39,12/11/2024,10:07:51,Credit card,293.7,4.76,14.69,4.9
+a298e2de-3d29-4b06-84ab-7415053cfced,B,Yangon,Normal,Male,Electronic accessories,52.44,6,15.73,330.37,02/27/2024,07:38:48,Credit card,314.64,4.76,15.73,7.1
+ef8acee4-6a75-43f4-bed1-8c1d1b80786c,A,Naypyitaw,Normal,Female,Food and beverages,13.13,9,5.91,124.08,10/16/2024,00:03:59,Ewallet,118.17,4.76,5.91,8.6
+dfc99128-e1e5-4940-ae24-6415d32fd07f,A,Naypyitaw,Normal,Male,Home and lifestyle,63.09,5,15.77,331.22,05/06/2024,02:53:21,Ewallet,315.45,4.76,15.77,3.3
+6d1a6709-8677-466a-8f0e-e07efbf59ed6,B,Yangon,Normal,Male,Food and beverages,14.18,7,4.96,104.22,09/17/2024,20:37:42,Cash,99.26,4.76,4.96,4.7
+8338dd1f-d7a2-4e08-8779-842ff21eebc3,A,Mandalay,Member,Male,Sports and travel,57.59,3,8.64,181.41,11/14/2024,19:52:38,Credit card,172.77,4.76,8.64,6.2
+157830c4-5801-4650-807e-6d1060e60978,B,Yangon,Member,Male,Home and lifestyle,31.6,5,7.9,165.9,01/28/2025,07:49:17,Cash,158.0,4.76,7.9,9.8
+a59e5422-5e20-4770-9b81-5a3a8cc57816,B,Yangon,Normal,Female,Electronic accessories,95.41,6,28.62,601.08,04/01/2024,05:53:49,Credit card,572.46,4.76,28.62,3.0
+90e7dc63-b843-4eee-b03b-1f63428672f0,B,Naypyitaw,Normal,Male,Sports and travel,50.98,9,22.94,481.76,11/09/2024,00:31:27,Credit card,458.82,4.76,22.94,8.2
+dbc163b5-b34a-4212-8c14-3a98ace2f0fb,C,Naypyitaw,Member,Male,Fashion accessories,41.36,4,8.27,173.71,08/08/2024,14:31:43,Ewallet,165.44,4.76,8.27,6.4
+a2e058fd-5157-44d5-a74c-cb2a032ad281,A,Mandalay,Member,Male,Home and lifestyle,48.24,2,4.82,101.3,10/03/2024,12:47:51,Credit card,96.48,4.76,4.82,6.9
+84bc6ec1-bdeb-4fc5-a965-c7fe8a79bcaa,A,Mandalay,Normal,Female,Electronic accessories,55.22,10,27.61,579.81,01/13/2025,08:24:01,Ewallet,552.2,4.76,27.61,5.7
+ad9bce7a-e8b6-4477-be27-c5592b60fa63,A,Naypyitaw,Member,Female,Fashion accessories,70.14,1,3.51,73.65,09/01/2024,16:15:04,Cash,70.14,4.77,3.51,6.3
+25f91d56-13c9-4b4d-a9cc-917b8f419e8f,B,Mandalay,Normal,Female,Electronic accessories,76.91,2,7.69,161.51,10/25/2024,18:41:52,Ewallet,153.82,4.76,7.69,3.2
+dbbb2041-72d6-4966-9598-28e0e17b26d4,B,Mandalay,Normal,Female,Sports and travel,85.53,5,21.38,449.03,11/10/2024,15:43:53,Cash,427.65,4.76,21.38,5.4
+699b82b9-1009-42d2-8ff0-fabd3ad0a3f4,B,Yangon,Normal,Female,Home and lifestyle,60.4,8,24.16,507.36,06/14/2024,09:08:59,Credit card,483.2,4.76,24.16,4.6
+3c8a59e4-deae-421e-a672-40a1d9b3e2d0,B,Mandalay,Normal,Male,Food and beverages,44.78,8,17.91,376.15,08/29/2024,08:53:09,Ewallet,358.24,4.76,17.91,4.7
+66305360-61e6-4893-9c9c-2fc3d050d72e,A,Naypyitaw,Member,Male,Food and beverages,47.35,7,16.57,348.02,03/25/2024,05:18:54,Ewallet,331.45,4.76,16.57,6.3
+3df59470-79e5-4dfc-9a23-bce4fbc143a4,C,Naypyitaw,Member,Female,Fashion accessories,84.41,3,12.66,265.89,09/04/2024,18:28:50,Ewallet,253.23,4.76,12.66,9.0
+66929327-34ee-44e8-b100-7ac423335f5c,A,Naypyitaw,Member,Female,Fashion accessories,20.3,10,10.15,213.15,09/16/2024,06:15:19,Credit card,203.0,4.76,10.15,2.6
+409e5e2b-f35a-4d0f-b30c-b3b732229bce,C,Naypyitaw,Member,Female,Health and beauty,47.16,6,14.15,297.11,05/23/2024,17:24:06,Cash,282.96,4.76,14.15,6.8
+fbaea5ed-a486-4de7-bbfa-8d3789e0f9ab,B,Naypyitaw,Member,Male,Food and beverages,40.84,4,8.17,171.53,12/20/2024,02:14:41,Credit card,163.36,4.76,8.17,5.9
+b960993e-1dcc-4bfc-8465-c6a8ed9d0cca,C,Yangon,Normal,Male,Sports and travel,41.41,3,6.21,130.44,08/21/2024,10:43:24,Ewallet,124.23,4.76,6.21,5.6
+c1a5bba8-4861-4cf6-ba0e-ebfae91a762a,B,Naypyitaw,Normal,Male,Fashion accessories,57.68,8,23.07,484.51,06/14/2024,17:52:32,Ewallet,461.44,4.76,23.07,2.0
+16b256b8-d83f-41bb-85e7-316940f9aeb4,C,Yangon,Normal,Female,Food and beverages,86.03,2,8.6,180.66,01/01/2025,03:23:07,Credit card,172.06,4.76,8.6,2.5
+4d6b2be5-203d-4ae1-a248-21934220fa3d,A,Yangon,Member,Male,Electronic accessories,69.76,8,27.9,585.98,08/19/2024,19:48:43,Ewallet,558.08,4.76,27.9,2.7
+638c69dd-f5ac-4015-a614-382f42d01e93,A,Naypyitaw,Normal,Female,Fashion accessories,97.72,2,9.77,205.21,06/17/2024,07:04:06,Cash,195.44,4.76,9.77,2.1
+dd01c961-8b69-41a0-9804-d55bdec4333a,C,Naypyitaw,Member,Male,Food and beverages,49.84,4,9.97,209.33,07/09/2024,00:46:39,Ewallet,199.36,4.76,9.97,2.5
+29600370-6a45-4123-b2a8-0439cee3629c,B,Yangon,Normal,Female,Home and lifestyle,65.57,7,22.95,481.94,01/01/2025,22:08:37,Ewallet,458.99,4.76,22.95,1.4
+56e4a7cc-f9f8-4f86-af41-539780a37b6a,A,Naypyitaw,Normal,Male,Food and beverages,24.61,9,11.07,232.56,05/25/2024,05:37:12,Cash,221.49,4.76,11.07,9.1
+c4164b06-8eb1-401a-a7e4-a9f82cccd65d,A,Naypyitaw,Normal,Male,Fashion accessories,15.31,10,7.66,160.76,09/03/2024,10:05:23,Credit card,153.1,4.76,7.66,2.1
+9da13d03-4e54-4486-8253-e24c000fe736,B,Naypyitaw,Normal,Male,Fashion accessories,45.4,1,2.27,47.67,05/20/2024,10:53:49,Ewallet,45.4,4.76,2.27,3.6
+a1ac1b38-c4b2-446d-8742-2a9423ce4992,B,Mandalay,Normal,Male,Health and beauty,61.57,9,27.71,581.84,02/05/2024,08:28:11,Credit card,554.13,4.76,27.71,6.0
+19c0ea89-7330-4c64-81db-85fc52f93033,B,Naypyitaw,Member,Male,Food and beverages,15.25,4,3.05,64.05,02/02/2025,20:39:22,Credit card,61.0,4.76,3.05,3.2
+246bf8e6-c1c3-4ced-827e-8e91b11f9488,A,Yangon,Normal,Male,Sports and travel,45.59,6,13.68,287.22,09/21/2024,22:40:45,Cash,273.54,4.76,13.68,6.7
+8c2ef062-5e76-411c-b520-da00c393a5e6,A,Naypyitaw,Normal,Female,Fashion accessories,92.69,9,41.71,875.92,11/16/2024,19:13:20,Ewallet,834.21,4.76,41.71,2.4
+b90cee52-07a4-4d13-924a-80f9459e0be1,A,Naypyitaw,Member,Female,Fashion accessories,43.75,9,19.69,413.44,04/21/2024,16:13:55,Cash,393.75,4.76,19.69,3.2
+2d5311c8-0c68-4451-b17f-6cb2a3ee2cc9,C,Yangon,Member,Male,Health and beauty,28.45,9,12.8,268.85,07/22/2024,11:26:54,Cash,256.05,4.76,12.8,2.4
+1b93e5bd-b43f-4de3-8530-69a5f099f167,A,Mandalay,Normal,Female,Food and beverages,28.96,3,4.34,91.22,11/05/2024,12:56:20,Ewallet,86.88,4.76,4.34,9.0
+1eebf6d2-ffe3-4fa2-8fc0-ecdf852d72b6,C,Yangon,Member,Female,Food and beverages,56.92,8,22.77,478.13,09/07/2024,20:58:45,Cash,455.36,4.76,22.77,1.9
+64105c7f-60d2-44c6-a6c9-e6cdf28c3d1c,A,Mandalay,Normal,Female,Electronic accessories,25.51,1,1.28,26.79,10/09/2024,08:46:00,Credit card,25.51,4.78,1.28,8.7
+c5c438b6-701b-467c-9313-dfd6d3018fed,A,Mandalay,Normal,Female,Electronic accessories,21.59,7,7.56,158.69,03/14/2024,13:29:16,Ewallet,151.13,4.76,7.56,6.2
+52a9c7db-6ca8-4769-80ca-c9aa78ac214c,A,Naypyitaw,Normal,Male,Electronic accessories,78.07,9,35.13,737.76,07/19/2024,13:25:11,Ewallet,702.63,4.76,35.13,1.1
+6105ef24-0847-4275-8750-d4b7cfd48a69,B,Mandalay,Normal,Male,Health and beauty,99.8,3,14.97,314.37,05/14/2024,11:25:53,Cash,299.4,4.76,14.97,6.1
+0b1fcdf7-3719-4fb9-93f3-140d0a319a03,B,Yangon,Member,Male,Fashion accessories,45.88,2,4.59,96.35,08/23/2024,04:17:24,Credit card,91.76,4.76,4.59,7.2
+1cde5374-d715-43bb-b844-b2f8bf904746,C,Naypyitaw,Normal,Female,Sports and travel,33.28,1,1.66,34.94,11/03/2024,04:27:52,Cash,33.28,4.75,1.66,3.0
+f1258c3b-0e3d-4d72-ab8d-5abde7879e3c,C,Naypyitaw,Normal,Male,Food and beverages,40.76,9,18.34,385.18,08/23/2024,09:10:32,Cash,366.84,4.76,18.34,2.7
+7a4d3b14-e7cb-4b5b-8987-3622c387c264,C,Mandalay,Member,Female,Health and beauty,18.28,9,8.23,172.75,02/27/2024,16:56:49,Ewallet,164.52,4.76,8.23,3.3
+87f714a1-af30-49f9-b662-182aca59ca30,B,Naypyitaw,Member,Female,Electronic accessories,44.25,8,17.7,371.7,01/06/2025,15:49:43,Cash,354.0,4.76,17.7,8.4
+235c3e04-2ba1-4205-86b4-c8bfdd824350,A,Naypyitaw,Normal,Male,Home and lifestyle,90.94,5,22.73,477.43,11/19/2024,17:40:32,Cash,454.7,4.76,22.73,3.0
+7c763cf9-3813-4ac1-b079-e094e081167c,A,Mandalay,Member,Male,Health and beauty,98.9,9,44.51,934.61,02/16/2024,00:07:20,Cash,890.1,4.76,44.51,5.8
+afdac5e4-513b-4a5a-983a-d29729cc8b6b,B,Yangon,Normal,Female,Fashion accessories,13.1,9,5.89,123.79,01/07/2025,20:13:07,Credit card,117.9,4.76,5.89,9.3
+0017bfda-f267-44a9-a05b-c64013472b3c,C,Mandalay,Normal,Female,Home and lifestyle,19.87,4,3.97,83.45,01/23/2025,00:56:47,Ewallet,79.48,4.76,3.97,6.7
+0b73cc58-ec5d-42b1-b77c-a9e64ff10a27,C,Yangon,Member,Male,Fashion accessories,37.11,4,7.42,155.86,08/17/2024,19:05:47,Credit card,148.44,4.76,7.42,6.8
+e3e52e0c-eff3-40c0-9a55-7b22ddcaa445,A,Yangon,Member,Female,Food and beverages,20.63,8,8.25,173.29,01/16/2025,02:19:22,Cash,165.04,4.76,8.25,9.2
+46f9772f-42af-4996-99b9-14067fcc35c4,A,Yangon,Member,Female,Health and beauty,54.68,9,24.61,516.73,05/21/2024,23:08:58,Credit card,492.12,4.76,24.61,3.6
+6e104a5c-c784-4000-833e-ec6e610e749e,C,Yangon,Member,Male,Health and beauty,65.41,8,26.16,549.44,04/28/2024,03:56:03,Ewallet,523.28,4.76,26.16,4.2
+25f48d73-0371-4f1d-9b09-cd0f63f7b599,C,Yangon,Normal,Male,Food and beverages,24.95,3,3.74,78.59,12/06/2024,17:08:54,Ewallet,74.85,4.76,3.74,4.6
+b50b4b14-63a6-4499-a745-70a914be5ab7,A,Yangon,Normal,Female,Food and beverages,93.16,7,32.61,684.73,03/21/2024,21:16:25,Credit card,652.12,4.76,32.61,8.0
+4ae63533-f030-407a-a4a7-b8bca27033ae,B,Mandalay,Normal,Female,Health and beauty,83.89,8,33.56,704.68,05/18/2024,09:27:08,Credit card,671.12,4.76,33.56,4.1
+4c5e12e3-162f-4156-af45-15c585eb4ffe,C,Mandalay,Normal,Male,Sports and travel,41.22,8,16.49,346.25,06/06/2024,05:29:43,Credit card,329.76,4.76,16.49,2.1
+ee9c9b35-994f-4aa1-8a73-a7af51a1baed,C,Yangon,Member,Male,Electronic accessories,43.51,7,15.23,319.8,06/05/2024,02:04:09,Ewallet,304.57,4.76,15.23,2.1
+666f228f-450a-4639-8eb4-aa4d429c259f,B,Yangon,Member,Female,Fashion accessories,45.92,4,9.18,192.86,02/16/2024,17:28:31,Ewallet,183.68,4.76,9.18,8.2
+b7fc7280-383f-4992-ad58-5fbcf8a68c63,A,Naypyitaw,Normal,Male,Home and lifestyle,79.07,7,27.67,581.16,12/20/2024,21:18:53,Credit card,553.49,4.76,27.67,4.3
+3d69f0af-ed70-445f-9976-8da2caf4840a,A,Yangon,Normal,Female,Health and beauty,70.32,4,14.06,295.34,05/05/2024,18:46:21,Credit card,281.28,4.76,14.06,2.9
+dfbef32b-0f67-4c07-980b-d65b1c96796e,C,Naypyitaw,Normal,Male,Health and beauty,63.45,2,6.35,133.25,02/15/2024,08:16:45,Credit card,126.9,4.77,6.35,3.6
+303f15e8-3336-4af5-8a2c-4249d0cc9259,C,Mandalay,Member,Male,Home and lifestyle,79.09,7,27.68,581.31,08/21/2024,16:30:23,Cash,553.63,4.76,27.68,5.2
+dc8c767a-9507-4c87-a2c0-418ecc74df13,C,Mandalay,Member,Male,Fashion accessories,76.67,1,3.83,80.5,05/24/2024,05:10:18,Credit card,76.67,4.76,3.83,3.7
+c1ab7ab4-dc1c-4015-ac0d-346b3de5c1ac,C,Naypyitaw,Member,Male,Home and lifestyle,33.45,6,10.04,210.74,11/13/2024,16:23:55,Credit card,200.7,4.76,10.04,9.5
+74029855-05f3-48fc-adb1-a1296825a3c4,C,Naypyitaw,Member,Male,Health and beauty,71.4,6,21.42,449.82,03/02/2024,07:54:48,Ewallet,428.4,4.76,21.42,8.4
+6e4e6c88-bcd1-4431-9c08-91bfdc20c284,A,Yangon,Normal,Male,Sports and travel,67.99,3,10.2,214.17,02/02/2025,01:35:50,Credit card,203.97,4.76,10.2,3.5
+16dd38b6-8252-490b-89ee-6e2e7cb57b60,A,Yangon,Member,Male,Food and beverages,63.61,2,6.36,133.58,08/08/2024,15:52:41,Ewallet,127.22,4.76,6.36,5.4
+c91e1beb-4c9a-4a6d-bd38-c18254e22d09,B,Naypyitaw,Member,Female,Home and lifestyle,53.88,1,2.69,56.57,06/12/2024,00:55:43,Ewallet,53.88,4.76,2.69,7.7
+c78cfc8b-d0c8-41a7-8c99-68101ea6dc3b,B,Naypyitaw,Member,Male,Food and beverages,83.39,9,37.53,788.04,01/05/2025,17:53:20,Cash,750.51,4.76,37.53,8.5
+f05fa2d3-df8b-4b31-b769-59986a1b8992,C,Naypyitaw,Member,Male,Food and beverages,10.87,6,3.26,68.48,04/09/2024,08:25:45,Credit card,65.22,4.76,3.26,6.7
+898bd4e6-d7ae-4481-8d30-859c0b630332,B,Yangon,Normal,Male,Electronic accessories,25.21,10,12.61,264.71,09/08/2024,07:40:45,Ewallet,252.1,4.76,12.61,1.9
+95c80429-7f79-480b-9438-71671d5c4f11,A,Naypyitaw,Member,Female,Electronic accessories,69.71,3,10.46,219.59,09/02/2024,13:24:49,Cash,209.13,4.76,10.46,4.3
+c92dc6d8-5a2d-476f-a1e3-6fba43c1fb43,C,Mandalay,Normal,Male,Home and lifestyle,21.35,7,7.47,156.92,07/19/2024,13:58:49,Cash,149.45,4.76,7.47,7.6
+86b0f13b-32e0-4dba-b17f-88ffaefde4ff,C,Mandalay,Member,Male,Fashion accessories,66.9,6,20.07,421.47,02/28/2024,09:39:04,Ewallet,401.4,4.76,20.07,1.8
+040dfd50-122e-4edd-b90b-b25c29dc9ca5,B,Yangon,Normal,Female,Fashion accessories,61.74,10,30.87,648.27,04/17/2024,14:51:14,Credit card,617.4,4.76,30.87,2.8
+2bdd013f-5c98-4389-9934-f90b5138e8bf,B,Naypyitaw,Member,Female,Fashion accessories,70.2,7,24.57,515.97,03/09/2024,04:54:09,Cash,491.4,4.76,24.57,5.3
+6a2d4f3a-31e3-42e3-90d1-85412778445a,C,Yangon,Member,Male,Sports and travel,30.21,9,13.59,285.48,03/17/2024,12:27:40,Cash,271.89,4.76,13.59,6.1
+49cd31f9-d657-4518-9022-1c1aec009025,C,Naypyitaw,Normal,Male,Fashion accessories,31.61,7,11.06,232.33,07/28/2024,06:32:00,Ewallet,221.27,4.76,11.06,1.1
+e8883c70-bc78-4cbe-b091-1acaff3a1801,B,Naypyitaw,Member,Male,Food and beverages,47.02,9,21.16,444.34,01/31/2025,13:37:12,Credit card,423.18,4.76,21.16,1.4
+96bc5430-1c82-4eff-b3c0-030e4724df68,B,Mandalay,Normal,Female,Electronic accessories,69.14,3,10.37,217.79,06/30/2024,13:46:08,Cash,207.42,4.76,10.37,7.5
+089519ff-6aa9-4806-972e-b0628c86b408,C,Naypyitaw,Normal,Female,Sports and travel,49.06,5,12.27,257.57,09/10/2024,03:26:30,Credit card,245.3,4.76,12.27,2.6
+47866568-84de-4c04-8edc-9e846f0df291,B,Mandalay,Normal,Male,Food and beverages,10.97,8,4.39,92.15,08/29/2024,15:20:16,Cash,87.76,4.76,4.39,6.8
+f82bff95-85b0-46d9-b441-41905957b592,B,Naypyitaw,Member,Female,Electronic accessories,74.57,5,18.64,391.49,11/08/2024,15:23:14,Credit card,372.85,4.76,18.64,3.4
+2daf5f01-8e67-4f71-8386-22cd942bb707,A,Naypyitaw,Member,Female,Fashion accessories,73.31,1,3.67,76.98,04/19/2024,18:26:46,Ewallet,73.31,4.77,3.67,7.9
+9d80c8c2-de3c-45b4-a0b8-5dbca56b7582,B,Yangon,Member,Male,Electronic accessories,28.11,7,9.84,206.61,05/30/2024,10:32:00,Credit card,196.77,4.76,9.84,6.3
+690da33a-ba28-4000-94fc-5517920dbece,C,Naypyitaw,Member,Female,Food and beverages,36.81,8,14.72,309.2,01/27/2025,10:26:43,Ewallet,294.48,4.76,14.72,3.9
+5a36bb4d-c52a-49dd-a73b-566a40bfc2e2,B,Mandalay,Normal,Female,Sports and travel,91.91,7,32.17,675.54,08/05/2024,23:28:31,Ewallet,643.37,4.76,32.17,1.8
+adb21be5-2cb9-4d31-af14-78df334527cb,B,Naypyitaw,Normal,Female,Health and beauty,74.38,2,7.44,156.2,11/29/2024,07:23:37,Cash,148.76,4.76,7.44,7.7
+e9f8d807-6326-410d-83c4-2db89f84b887,B,Mandalay,Member,Male,Home and lifestyle,30.24,3,4.54,95.26,07/09/2024,19:17:34,Credit card,90.72,4.77,4.54,1.7
+b5d5fc70-8c7f-4a61-a4bf-280935de6b7d,A,Naypyitaw,Member,Male,Health and beauty,70.51,10,35.26,740.36,01/01/2025,18:50:47,Cash,705.1,4.76,35.26,3.4
+228116d7-538a-4c54-b9d1-dfa24280d878,B,Naypyitaw,Member,Male,Sports and travel,95.06,3,14.26,299.44,05/24/2024,15:26:27,Ewallet,285.18,4.76,14.26,8.1
+75047921-3463-4b00-9ab1-2c859b930caf,A,Yangon,Member,Female,Fashion accessories,97.27,7,34.04,714.93,12/10/2024,04:40:55,Cash,680.89,4.76,34.04,2.9
+f69787f9-01e4-4a13-bc05-b2a36b557fd6,B,Yangon,Normal,Male,Sports and travel,39.28,3,5.89,123.73,08/25/2024,16:32:08,Credit card,117.84,4.76,5.89,5.0
+7ab621da-1aef-4c33-8c6a-1ec67f69c64b,A,Yangon,Normal,Female,Fashion accessories,52.54,3,7.88,165.5,03/19/2024,21:57:31,Cash,157.62,4.76,7.88,6.8
+bf835792-82e2-4f07-8a36-b6def7e8a7e0,C,Mandalay,Member,Male,Food and beverages,76.62,4,15.32,321.8,05/31/2024,13:58:25,Cash,306.48,4.76,15.32,4.1
+73622a8a-fbf0-47d7-8c0b-2202f28e72ae,C,Naypyitaw,Member,Female,Health and beauty,68.16,2,6.82,143.14,04/11/2024,12:50:45,Cash,136.32,4.76,6.82,4.0
+08c8ef8b-c91a-4ff4-b4b2-5c889329b18b,B,Yangon,Member,Male,Electronic accessories,48.25,7,16.89,354.64,10/23/2024,12:11:04,Ewallet,337.75,4.76,16.89,5.0
+64c91311-8be9-4363-a6a3-dba02284624f,B,Naypyitaw,Member,Female,Health and beauty,70.76,5,17.69,371.49,04/18/2024,22:47:23,Ewallet,353.8,4.76,17.69,2.4
+6bbdf650-7009-4985-9717-d8c53ca5a133,B,Naypyitaw,Normal,Male,Food and beverages,83.09,4,16.62,348.98,02/18/2024,11:10:07,Credit card,332.36,4.76,16.62,7.7
+5c80eb7f-5c57-44e4-bbdc-51e2c1f93918,C,Naypyitaw,Normal,Male,Fashion accessories,21.25,4,4.25,89.25,08/14/2024,23:57:31,Credit card,85.0,4.76,4.25,4.0
+680ac791-6843-4eb1-997f-7f3e5a183de0,C,Yangon,Member,Female,Fashion accessories,35.89,6,10.77,226.11,12/26/2024,05:04:20,Ewallet,215.34,4.76,10.77,2.1
+2a0661cc-a9d9-4201-8996-56c4cd4ca6b4,B,Naypyitaw,Member,Female,Sports and travel,39.26,9,17.67,371.01,02/04/2025,22:38:53,Credit card,353.34,4.76,17.67,2.9
+b21ac075-d8fa-41ea-8003-75c294df4819,B,Mandalay,Member,Male,Food and beverages,88.66,7,31.03,651.65,08/21/2024,06:20:38,Ewallet,620.62,4.76,31.03,3.2
+cbc866c2-d34e-4dff-899d-9c9bdada822b,C,Naypyitaw,Normal,Female,Food and beverages,94.33,7,33.02,693.33,12/23/2024,23:53:03,Cash,660.31,4.76,33.02,6.8
+be451ecd-6ce5-42ff-a60c-17bed9551f56,B,Mandalay,Normal,Male,Fashion accessories,62.43,5,15.61,327.76,11/13/2024,15:28:03,Cash,312.15,4.76,15.61,4.3
+c03a6e87-a6b5-4f31-8caf-6694533b7fe3,B,Yangon,Member,Female,Home and lifestyle,54.53,5,13.63,286.28,04/29/2024,15:04:06,Credit card,272.65,4.76,13.63,5.1
+8a8e13bb-6e3e-41ab-a7b2-fefb9a9532af,B,Naypyitaw,Member,Male,Health and beauty,75.73,2,7.57,159.03,03/09/2024,21:24:02,Cash,151.46,4.76,7.57,7.3
+11d0ead3-e238-435e-bca1-1cb12826c107,B,Naypyitaw,Normal,Female,Fashion accessories,94.73,5,23.68,497.33,07/04/2024,07:14:19,Ewallet,473.65,4.76,23.68,8.2
+fd78ca6b-203e-43e8-ad29-fd608bce56c5,C,Yangon,Member,Female,Health and beauty,27.66,6,8.3,174.26,06/21/2024,22:15:12,Credit card,165.96,4.76,8.3,8.3
+fe6cebd5-eadf-4e36-b08a-d6e64b5df6e4,A,Naypyitaw,Member,Female,Home and lifestyle,30.59,4,6.12,128.48,11/17/2024,06:10:05,Credit card,122.36,4.76,6.12,7.6
+bbc6b995-1afc-47e2-91c7-01fa1c19e649,C,Naypyitaw,Member,Male,Food and beverages,50.14,2,5.01,105.29,03/13/2024,16:53:08,Ewallet,100.28,4.76,5.01,4.3
+61b402ad-6e83-4987-aa90-a33727cfad38,C,Mandalay,Member,Male,Home and lifestyle,46.63,5,11.66,244.81,04/14/2024,12:06:30,Cash,233.15,4.76,11.66,5.2
+197a50a7-1334-434c-971d-35232f35bb89,B,Naypyitaw,Normal,Female,Food and beverages,28.01,7,9.8,205.87,04/17/2024,13:16:44,Credit card,196.07,4.76,9.8,6.8
+ecad506b-1143-48c6-925f-1cf34ed0b70b,A,Mandalay,Normal,Male,Health and beauty,65.89,1,3.29,69.18,03/03/2024,13:28:29,Cash,65.89,4.76,3.29,9.0
+62e17ccd-8f8f-4f22-93b2-8168805dc5a2,C,Naypyitaw,Normal,Female,Health and beauty,64.46,10,32.23,676.83,06/07/2024,03:47:42,Ewallet,644.6,4.76,32.23,3.1
+13935182-3a49-413d-92a1-56abe0220115,C,Mandalay,Member,Female,Health and beauty,96.64,2,9.66,202.94,06/23/2024,22:40:53,Cash,193.28,4.76,9.66,7.9
+0962d2ae-ec4c-491c-87f8-1db7224b48a0,A,Naypyitaw,Normal,Female,Health and beauty,52.99,6,15.9,333.84,07/20/2024,10:24:36,Ewallet,317.94,4.76,15.9,6.4
+5085fc48-5f6c-4360-abb4-306edf8c8ecb,B,Yangon,Member,Male,Home and lifestyle,51.63,1,2.58,54.21,08/10/2024,13:10:18,Cash,51.63,4.76,2.58,8.4
